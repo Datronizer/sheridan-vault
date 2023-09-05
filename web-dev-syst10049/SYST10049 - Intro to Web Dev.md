@@ -15,8 +15,7 @@ There will be 5 quizzes, all monitored using [[Lockdown Browser]].
 - Final Exam: 25%
 
 # Passing grade
-To pass this class in general, you **need** 50% total.
-But you need at least 50% total for both exams. (20% midterm + 30% finals is ok).
+Follows the [[General Sheridan Terminology#50/50 rule|50/50 rule]].
 
 Detailed course description can be found here: https://ulysses.sheridanc.on.ca/coutline/coutlineview.jsp?print=true&courseCode=10049&subjectCode=SYST&version=2023050800&appver=sal&d=null&s=null
 
