@@ -2,6 +2,7 @@
 - Assignment & Presentation
 - Exercises
 - Exams (30%)
+- Follows the [[General Sheridan Terminology#50/50 rule|50/50 rule]]
 
 # Textbook
 Must be bought through Revel's online textbook. Link is here

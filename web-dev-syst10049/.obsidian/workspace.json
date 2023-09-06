@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "ff4148f3edc03e5e",
+    "id": "ce94c3660553827e",
     "type": "split",
     "children": [
       {
-        "id": "e872968cbd0e94f0",
+        "id": "f740bfe613b2e709",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd6006babd94dd2",
+            "id": "ef34b10299c9dde3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-math-math18584/Chapter 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3444c5628332e487",
+    "id": "909ccffa617e4ae8",
     "type": "split",
     "children": [
       {
-        "id": "70fd694b2eaeb8cf",
+        "id": "8f6c6c3c726a5c66",
         "type": "tabs",
         "children": [
           {
-            "id": "27e772050fda05f3",
+            "id": "7fafa2078fc7b596",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "c54bede1d27483ef",
+            "id": "7e167d8faefe9217",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "c62fb2042977feb0",
+            "id": "d7bd05b366807219",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "5dfb52f3cf744721",
+    "id": "45da8618bf54b512",
     "type": "split",
     "children": [
       {
-        "id": "1e7628686421f8e4",
+        "id": "860be5f8c2fdaa83",
         "type": "tabs",
         "children": [
           {
-            "id": "88283d5100886ab7",
+            "id": "2372c2832e9519bf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-math-math18584/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "ef4ad490e48704ad",
+            "id": "772f51434a7873f5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-math-math18584/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9cd00807ba180b30",
+            "id": "84de06c3cfb4f2f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,20 +114,10 @@
             }
           },
           {
-            "id": "97b4856bd62ffd23",
+            "id": "37fe8586b1b58b34",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "computer-math-math18584/Chapter 1.md"
-              }
-            }
-          },
-          {
-            "id": "be9d443cc28570d3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -154,21 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbd6006babd94dd2",
-  "lastOpenFiles": [
-    "Decimal numbers.md",
-    "computer-math-math18584/Chapter 1.md",
-    "computer-math-math18584/Computer Math Fundamentals - MATH18584.md",
-    "placevalues.md",
-    "tech-comms-comm13729/COMM13729 - The Art of Technical Communication.md",
-    "computer-math-math18584",
-    "tech-comms-comm13729/TODO.md",
-    "General Sheridan Terminology.md",
-    "web-dev-syst10049/SYST10049 - Intro to Web Dev.md",
-    "web-dev-syst10049/Lockdown Browser.md",
-    "web-dev-syst10049/Webpage & Components/Webpage.md",
-    "web-dev-syst10049/Webpage & Components/CSS.md",
-    "web-dev-syst10049/Webpage & Components/HTML.md",
-    "tech-comms-comm13729"
-  ]
+  "active": "ef34b10299c9dde3",
+  "lastOpenFiles": []
 }
