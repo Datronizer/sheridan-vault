@@ -13,3 +13,6 @@ Optional, use the McGraw Hill Discrete Math book (Scott Grizzard's old class)
 # Course details
 Refer to the <a href="https://slate.sheridancollege.ca/d2l/le/content/1136444/viewContent/14766729/View">Class plan</a>
 
+
+# Lectures
+[[Chapter 1]]

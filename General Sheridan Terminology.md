@@ -9,3 +9,5 @@ The 50/50 rule is a grade requirement where a student must get at least 50% betw
 	- Unless you have a health condition/doctor's note, you will be deducted.
 # Academic Procedures for Evaluations
 Refer to School of Applied Computing - Academic Procedures for Evaluations.
+# Proctoring
+Proctoring is generally done virtually through [[Lockdown Browser]]. I don't know why other than there must be a massive contract.

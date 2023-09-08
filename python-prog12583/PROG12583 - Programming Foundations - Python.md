@@ -1,0 +1,11 @@
+# Lectures
+[[Lecture 1 - PROG12583]]
+
+# Evaluation
+Follows the [[General Sheridan Terminology#50/50 rule|50/50 rule]]
+Evals:
+- Assignments: 7.5% x 4 = 30%
+- Quizzes: 2% x 5 = 10%
+- Exams: 30% x 2 = 60%
+# Textbook
+Introducing Python, Lubanovic, O'Reily Media, 2nd Edition, 2019, available through Sheridan's library.

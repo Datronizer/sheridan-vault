@@ -1,20 +1,24 @@
 Most numbers we use in daily life are formed from 10 numbers: 0, 1, 2,...,9. And we would arrange these numbers in a system called [[Decimal numbers]].  Deci- being 10, -mal being system => Base 10 system.
 
-Each of these individual numbers are called [[digits]] and these digits make up bigger and more complex numbers by taking up [[placevalues]].
+Each of these individual numbers are called [[#Digits|digits]] and these digits make up bigger and more complex numbers by taking up [[#Placevalues|placevalues]].
 
 In a decimal system, the placevalues are 10, 100, 1000, etc.
 
 Yet, computers only understand [[Chapter 1#Binary|the binary system]], 0's and 1's. That is because unlike us, they communicate using "on" and "off", switches of electricity through semiconductors to communicate numbers. In a binary system, their placevalues are instead 2, 4, 8, 16, equivalent to 2^1, 2^2, 2^3,...
 
 Each of these digits are called "**Bi**nary dig**its**" => hence, "**bits**"
+# Number systems
+## Decimal
+## Binary
+
+# Digits
 # Placevalues
 Placevalues are powers of a system of which a digit can multiply with in order to occupy a *place* in a number. 
 
 Common placevalues in number systems:
-- Binary: 2^0, 2^1, 2^2, 2^3 = 1, 2, 4, 8, etc.
-- Decimal: 10^0, 10^1, 10^2, 10^3 = 10, 100, 1000, 10000, etc.
-- Hexadecimal: 16^0, 16^1, 16^2,... = 1, 16, 256, etc.
-
+- Binary: $$2^0, 2^1, 2^2, 2^3,... = 1, 2, 4, 8,... $$
+- Decimal: $$10^0, 10^1, 10^2, 10^3,... = 10, 100, 1000, 10000,...$$
+- Hexadecimal: $$16^0, 16^1, 16^2,... = 1, 16, 256,...$$
 # Counting numbers
 We often count numbers, but we never really stopped to consider why we do certain things. Here's a thought problem. Try counting decimal numbers!
 
@@ -40,10 +44,8 @@ We see that as we hit the limit of a column, the max permutations within that li
 For the sake of clarity, we can use the **expanded notation** to convert numbers to different systems. Convert each digit of other system into the equivalent in decimal and use the relavant power.
 
 Example: 
-- 123dec =  1 * 10^2 + 2 * 10^1 + 3 * 10^0 = 100 + 20 + 3
-- 11001bin = 1 * 2^4 + 1 * 2^3 + 0 * 2^2 + 0 * 2^1 + 1 * 2^0 = 16 + 8 + 0 + 0 + 1 = 25
-- 3AChex = 256 * 3 +16 * 10 + 12 * 1 = 940
-- 1Fhex = 16 * 1 + 1 * 15 = 31
+$$123dec =  1 * 10^2 + 2 * 10^1 + 3 * 10^0 = 100 + 20 + 3$$
+$$11001bin = 1 * 2^4 + 1 * 2^3 + 0 * 2^2 + 0 * 2^1 + 1 * 2^0 = 16 + 8 + 0 + 0 + 1 = 25$$$$3AChex = 256 * 3 +16 * 10 + 12 * 1 = 940$$$$1Fhex = 16 * 1 + 1 * 15 = 31$$
 ## Decimal to Binary
 Use the remainder method. Example:
 > What is 252dec = ???bin
@@ -62,14 +64,15 @@ Another example:
 > Write that backwards to get 10011000
 
 Another method is the **place method**
-Example:
-> 47dec to binary
-> 47 
-> = 32 + 15 
-> = 32 + 8 + 7 
-> = 32 + 8 + 4 + 3 
-> = 32 + 8 + 4 + 2 + 1 
-> = 2^6 + 0 + 2^4 + 2^2 + 2^1 + 2^0
-> = 101111 (16 missing so it's 0)
-> This works better if you draw this out.
-
+Example, to convert 47dec to binary:
+$$
+\begin{aligned}
+47 &= 32 + 15 \\ 
+&= 32 + 16*0 + 8 + 7 \\
+&= 32 + 16*0 + 8 + 4 + 3 \\
+&= 32 + 16*0 + 8 + 4 + 2 + 1 \\
+&= 2^6 + 2^5*0 + 2^4 + 2^2 + 2^1 + 2^0 \\
+&= 101111 \text{(16 missing so it's 0)} \\
+\end{aligned}
+$$
+This works better if you draw this out.

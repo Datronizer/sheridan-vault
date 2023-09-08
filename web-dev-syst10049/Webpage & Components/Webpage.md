@@ -1,10 +1,10 @@
 A typical webpage has 3 components:
 
 ### HTML
-HTML is basically the wireframe of a webpage, the backbone if you will. It provides a fundamental structure of where everything goes, what the hierarchy is, and where the other 2 elements go.
+[[HTML]] is basically the wireframe of a webpage, the backbone if you will. It provides a fundamental structure of where everything goes, what the hierarchy is, and where the other 2 elements go.
 
 ### CSS
-CSS is used for styling, can greatly modify the page and can be used to do some really cool stuff (see Hoyoverse minigames / virtual conferences)
+[[CSS]] is used for styling, can greatly modify the page and can be used to do some really cool stuff (see Hoyoverse minigames / virtual conferences)
 
 ### JS
 Javascript to add inteactivity
@@ -35,7 +35,6 @@ In short, SWDLC. 6 steps to every single web project.
 
 ### Visual Pairing
 We can't simply create a site from scratch in one sitting. We need a proper **sitemap**. To design the sitemap, we need to **wireframe**. 
-
 #### Wireframe
 ##### Overview 
 There are two types of wireframes:
@@ -47,7 +46,6 @@ There are two types of wireframes:
 	- Format of final labels
 	- Use of placeholders
 	- Images if possible
-
 This simple wireframe can be made into a simple prototype without any JS, just to test feasibility.
 
 ##### Sketching wireframes
