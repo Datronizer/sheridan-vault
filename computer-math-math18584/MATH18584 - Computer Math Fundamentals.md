@@ -15,4 +15,5 @@ Refer to the <a href="https://slate.sheridancollege.ca/d2l/le/content/1136444/vi
 
 
 # Lectures
-[[Chapter 1]]
+[[computer-math-math18584/Lecture 1|Lecture 1]]
+[[Lecture 2]]

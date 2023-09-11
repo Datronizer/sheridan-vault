@@ -4,7 +4,7 @@ Each of these individual numbers are called [[#Digits|digits]] and these digits 
 
 In a decimal system, the placevalues are 10, 100, 1000, etc.
 
-Yet, computers only understand [[Chapter 1#Binary|the binary system]], 0's and 1's. That is because unlike us, they communicate using "on" and "off", switches of electricity through semiconductors to communicate numbers. In a binary system, their placevalues are instead 2, 4, 8, 16, equivalent to 2^1, 2^2, 2^3,...
+Yet, computers only understand [[computer-math-math18584/Lecture 1#Binary|the binary system]], 0's and 1's. That is because unlike us, they communicate using "on" and "off", switches of electricity through semiconductors to communicate numbers. In a binary system, their placevalues are instead 2, 4, 8, 16, equivalent to 2^1, 2^2, 2^3,...
 
 Each of these digits are called "**Bi**nary dig**its**" => hence, "**bits**"
 # Number systems
@@ -35,7 +35,7 @@ Do this again. 10 + 1 = 11 => 11 + 1 = 12. 2 is an overflow of 0, 1 so 2 becomes
 
 > [!important] Keep in mind these are **binary** not **decimals**. The numbers are only representative and they DO NOT mean the same thing they mean in decimal values.
 
-Same things with hexadecimals btw, but I'm too lazy to write them all out. Refer to <a href="https://www.tutorialspoint.com/computer_logical_organization/hexadecimal_arithmetic.htm">this link</a>.
+Same things with hexadecimals btw, but I'm too lazy to write them all out. Refer to [this link](https://www.tutorialspoint.com/computer_logical_organization/hexadecimal_arithmetic.htm).
 
 We see that as we hit the limit of a column, the max permutations within that limit is always the same as the power of the [[#Placevalues|placevalue]] of the limit you're trying to reach.
 
@@ -76,3 +76,37 @@ $$
 \end{aligned}
 $$
 This works better if you draw this out.
+## Decimal to Hexadecimal
+Use the remainder method also. Example:
+> What is 555dec = ???hex
+> 
+> Start by dividing 555 by 16 to get 34R11.
+> Repeat to get 2R2
+> We have 2 / 16 which is 0R2 
+> 
+> Now look at all the remainders, sort them backwards. So if we got 11-2-2, it is now 2-2-11 = 22B.
+
+## Binary to Hexadecimal
+In the binary system, the number 16 can be represented with 4 bits. In other words, every 4 bits can be converted to 1 hexit. Using this property, we can convert binary to hexadecimal using the following method.
+
+There are 3 steps:
+1. Start with the right-most (least significant) bit and group into sets of four bits.
+2. If the last group has less than 4 bits, pad to the left with zeros until the group has four bits.
+3. Convert each groups of 4 bits to its hex equivalent.
+
+Example:
+> 1011001000011111011bin = ???hex
+> ***0***101 1001 0000 1111 1011 (group into sets of 4 bits + padding)
+>    5       9       0       F       B
+> 590FB is my new number
+
+## Hexadecimal to Binary
+This is simpler than the other way around. All you need to do is write the 4bit equivalent for each hexit e.g. 14hex = 1110bin
+
+Example:
+> (A1E7)hex = ???bin
+>    A     1        E       7
+>   10     1       14      7
+> 1010 0001 1110 0111
+> This is my new number ^^^
+
