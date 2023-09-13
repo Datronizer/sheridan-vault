@@ -1,3 +1,4 @@
+#lecture
 # The Internet
 An internet is a connection between 2 networks. Inter- is between, net is an interweaving structure, like a network. Hence the definition.
 But **The Internet** is a network of networks. It's impersonal but it is also personal.
@@ -9,11 +10,9 @@ But **The Internet** is a network of networks. It's impersonal but it is also pe
 **In 1974**, TCP/IP was invented and eliminated the need for a central control. But there were challenges in trying to get 2 networks to communicate. A bank might have faster internet than a home network. They might be more secure. Their packets might be bigger. 
 
 The solution? A default gateway, nowadays, it's your router! It allows your network to pass through the router, the router would then negotiate with the router on the other end and agree on speeds and packets, then the network reaches the other router and the other user. Kind of like an airport.
-
 # Circuit switched / Packet Switched
 - For old telephones, when the phones connect, the line stays open until you hang up, even if you're not speaking. And the data connects through only 1 path. That's **circuit switch**.
 - **Packet switched** networks would close the connection after the packet is sent. Each packet can travel independently on different paths.
-
 # Network Certifications
 AWS and CISCO certifications are really sought after, the CISCO one is more commonly known as CCNA. Python and CISSP are also popular certifications for your resume in networking.
 

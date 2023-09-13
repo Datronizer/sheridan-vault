@@ -1,3 +1,4 @@
+#lecture
 # Arithmetic Operations
 ## Binary Addition
 $$ 

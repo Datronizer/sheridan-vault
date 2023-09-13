@@ -1,7 +1,7 @@
 This course focuses on simple web development, using HTML and CSS to set up, design, and deploy the website. 
 
 The course is split into 2 sections: 
-- Section 1 from **Week 1 - Week 6**, focusing on [[HTML]].
+- Section 1 from **Week 1 - Week 6**, focusing on [[Hyper Text Markup Language|HTML]].
 - Section 2 from **Week 8 - Week 13**, focusing on [[CSS]].
 **Week 7** and **Week 14** are reserved for **Midterm** and **Finals**
 

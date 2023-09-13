@@ -1,14 +1,11 @@
 A typical webpage has 3 components:
 
 ### HTML
-[[HTML]] is basically the wireframe of a webpage, the backbone if you will. It provides a fundamental structure of where everything goes, what the hierarchy is, and where the other 2 elements go.
-
+[[Hyper Text Markup Language|HTML]] is basically the wireframe of a webpage, the backbone if you will. It provides a fundamental structure of where everything goes, what the hierarchy is, and where the other 2 elements go.
 ### CSS
 [[CSS]] is used for styling, can greatly modify the page and can be used to do some really cool stuff (see Hoyoverse minigames / virtual conferences)
-
 ### JS
 Javascript to add inteactivity
-
 # Stages of Web Development Life Cycle
 In short, SWDLC. 6 steps to every single web project.
 1. Definition
