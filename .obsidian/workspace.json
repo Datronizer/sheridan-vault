@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
+                "file": "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
+                "file": "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
+                "file": "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md"
+                "file": "python-prog12583/Lectures/Lecture 2 - PROG12583.md"
               }
             }
           },
@@ -182,12 +182,14 @@
   },
   "active": "8df9a1e5a745d278",
   "lastOpenFiles": [
+    "python-prog12583/Lectures/Lecture 3 - PROG12583.md",
+    "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
+    "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
     "computer-math-math18584/Concepts/Binary.md",
     "computer-math-math18584/Lectures/Lecture 3 - MATH18584.md",
     "computer-math-math18584/Concepts/Decimal numbers.md",
     "computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
     "computer-math-math18584/Lectures/Lecture 2 - MATH18584.md",
-    "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
     "web-dev-syst10049/Concepts/Webpage & Components/Hyper Text Markup Language.md",
     "web-dev-syst10049/Concepts/Webpage & Components/Webpage.md",
     "web-dev-syst10049/SYST10049 - Intro to Web Dev.md",
@@ -195,7 +197,6 @@
     "tech-comms-comm13729/COMM13729 - The Art of Technical Communication.md",
     "data-communications-tele13167/Introduction to Data Communications and Networking - TELE13167.md",
     "data-communications-tele13167/Lectures/Lecture 1 - TELE13167.md",
-    "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 1 - PROG12583.md",
     "web-dev-syst10049/Lectures/Lecture 2.md",
     "Untitled.canvas",

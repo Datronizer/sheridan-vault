@@ -7,8 +7,8 @@ A few popular ones are Visual Studio Code (VS Code), Visual Studio (VS 2019), In
 If we recall from last time, there are 6 operators %%backlink%% in Python. But what if we need to find a symbol or operator that isn't there? Like how do I print the value of π? How do I do square root? The answer to these questions is using a library!
 
 A library is basically what you think it is. It is a collection of methods, specifically designed to run in machine language (as opposed to interpreter language), thus ensuring optimal performance as if it was a native method.
-# Memory handling
-Try punching $69!$ into your calculator, now do $70!$. You'll soon see that this is not possible. The reason for this is because calculators run on buses and memory chips. These chips have a limit to how much they can store/compute. The current limit right now is $10^99$, but that is hugeeeee compared to the first calculators: 99. Yes, only 99, less than 100. We call this a **chomp** because, you know, chomp (this is also placeholder numbers, it's technically FF = 256, not 99. But this example is easier to grasp).
+# Memory Map (memmap)
+Try punching $69!$ into your calculator, now do $70!$. You'll soon see that this is not possible. The reason for this is because calculators run on buses and memory chips. These chips have a limit to how much they can store/compute. The current limit right now is $10^99$, but that is hugeeeee compared to the first calculators: 99. Yes, only 99, less than 100. We call this a **chomp** because, you know, chomp (this is also placeholder numbers, it's technically FF = 256, not 99. It's also a "byte". But this example is easier to grasp).
 
 So how did we get from there to what we have nowadays? Well, suppose one bus unit can do up to 99. What if we put them side by side? We would, instead of getting 198, we get 9999. The reason we get this much is that we only need to use the digits, rather than the count. This juxtaposition allows for more numbers to be **displayed**. Keyword here is **display** because we are can display more numbers and improve computations/storage.
 
@@ -41,6 +41,8 @@ Address | Byte | Var
 etc. | ... | ...
 
 Python allocates some memory for your variables **based on their data types**. When you declare a variable in other languages, you must also declare a type so that the interpreter/compiler can allocate room in its memory. Often times, it, as well as us, overshoot the allocation and waste memory. Compare a `short` of value `55` and an `int` of value `55`. The `short` will just have 1 address of size 1 chomp. The `int` would have a size of 4 chomps because it needs to allocate extra room as `00 00 00 55`. This wastes a ton of memory.
+## Stop sign
+A stop sign is a byte that signifies a "stop" of an object(?) currently being stored in the memory. One way to look at it is to see it is to imagine textbooks being stored as only unordered pages. How do we know where one book ends and the other begins? We need a divider that splits these pages and 
 # ASCII table
 The ASCII table is a table of all characters supported in ASCII, for example, pi. Here's how you can type these characters into your text editor.
 - Look up the ASCII number of the symbol
