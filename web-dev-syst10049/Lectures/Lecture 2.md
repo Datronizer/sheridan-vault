@@ -1,3 +1,4 @@
+#lecture 
 Lecture 1 was used to describe course contents. This is the actual lecture.
 # [Progressive Enhancement](https://slate.sheridancollege.ca/d2l/le/content/1141756/viewContent/14861696/View)
 A methodology that ensures a web application/site is accessible to everyone, regardless of what kind of device they're using. We do this by separating out application's structure and content from the styling and from the functionality essentially dividing up the development of the site into 3 parts.
