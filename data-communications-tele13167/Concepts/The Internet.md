@@ -1,0 +1,1 @@
+Not to be confused with "an internet", The Internet is what we call the network of networks, connected globally on Earth, which houses trillions of bytes of data, maybe more! The Internet is what I would like to call our "digital home".

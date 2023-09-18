@@ -1,5 +1,5 @@
 #lecture
-Most numbers we use in daily life are formed from 10 numbers: 0, 1, 2,...,9. And we would arrange these numbers in a system called [[Decimal numbers]].  Deci- being 10, -mal being system => Base 10 system.
+Most numbers we use in daily life are formed from 10 numbers: 0, 1, 2,...,9. And we would arrange these numbers in a system called [[Decimals]].  Deci- being 10, -mal being system => Base 10 system.
 
 Each of these individual numbers are called [[#Digits|digits]] and these digits make up bigger and more complex numbers by taking up [[#Placevalues|placevalues]].
 
@@ -39,7 +39,6 @@ Do this again. 10 + 1 = 11 => 11 + 1 = 12. 2 is an overflow of 0, 1 so 2 becomes
 Same things with hexadecimals btw, but I'm too lazy to write them all out. Refer to [this link](https://www.tutorialspoint.com/computer_logical_organization/hexadecimal_arithmetic.htm).
 
 We see that as we hit the limit of a column, the max permutations within that limit is always the same as the power of the [[#Placevalues|placevalue]] of the limit you're trying to reach.
-
 # Number conversions
 ## Convert to Decimal
 For the sake of clarity, we can use the **expanded notation** to convert numbers to different systems. Convert each digit of other system into the equivalent in decimal and use the relavant power.

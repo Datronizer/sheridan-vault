@@ -3,6 +3,7 @@
 An internet is a connection between 2 networks. Inter- is between, net is an interweaving structure, like a network. Hence the definition.
 But **The Internet** is a network of networks. It's impersonal but it is also personal.
 # Before the Internet
+Life was quite interesting prior to the creation of **The Internet**
 - **Prior to 1960**, people used to communicate with phones, telegraph, pigeon carriers, etc.
 - But **in 1969**, at the peak of the nuclear threats, the US invented the Arpanet to ensure communications in case a nuclear attack happens. That was the predecessor to the internet.
 - **In 1971**, emails were first invented.
@@ -11,8 +12,9 @@ But **The Internet** is a network of networks. It's impersonal but it is also pe
 
 The solution? A default gateway, nowadays, it's your router! It allows your network to pass through the router, the router would then negotiate with the router on the other end and agree on speeds and packets, then the network reaches the other router and the other user. Kind of like an airport.
 # Circuit switched / Packet Switched
-- For old telephones, when the phones connect, the line stays open until you hang up, even if you're not speaking. And the data connects through only 1 path. That's **circuit switch**.
-- **Packet switched** networks would close the connection after the packet is sent. Each packet can travel independently on different paths.
+For old telephones, when the phones connect, the line stays open until you hang up, even if you're not speaking. And the data connects through only 1 path. That's **circuit switch**.
+
+**Packet switched** networks would close the connection after the packet is sent. Each packet can travel independently on different paths.
 # Network Certifications
 AWS and CISCO certifications are really sought after, the CISCO one is more commonly known as CCNA. Python and CISSP are also popular certifications for your resume in networking.
 
@@ -84,7 +86,6 @@ There are 4 basic topologies:
 **Easy to setup/expand**: Still pretty simple, not as simple as star.
 **Cost**: Relatively inexpensive.
 **Troubleshooting**: Fairly difficult to isolate the issue.
-
 # Internet Standards
 The internet standards are rules that hope to standardize the internet globally.
 The process to pass a new standard is as such:
@@ -96,6 +97,6 @@ Same thing with "ipv5". Look it up.
 5 protocol related acronyms:
 - TCP/IP: A protocol suite that contains essential rules for how the internet works.
 - IPsec
-- HTTP
-- OSI model: Replacement for TCP/IP that never caught on.
+- HTTP: A protocol that allows communication between computer and server.
+- [[Lecture 2 - TELE13167#OSI model|OSI model]]: Replacement for TCP/IP that never caught on.
 - UDP: Protocol that enables fast communication.

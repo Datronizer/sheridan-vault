@@ -1,7 +1,7 @@
 # Lectures
 [[Lecture 1 - PROG12583]]
 [[Lecture 2 - PROG12583]]
-
+[[Lecture 3 - PROG12583]]
 # Evaluation
 Follows the [[General Sheridan Terminology#50/50 rule|50/50 rule]]
 Evals:

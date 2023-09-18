@@ -1,5 +1,7 @@
 [
   "obsidian-kanban",
   "calendar",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian",
+  "sheets"
 ]

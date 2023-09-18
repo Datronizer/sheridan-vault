@@ -4,7 +4,7 @@ This number system was originally invented to bridge the language barrier betwee
 
 As computers can only "speak" in 0s and 1s, we eventually had to come up with a methodical system to translate binary into decimal, and formulate the system's fundamental properties.
 # In terms of pure math
-The binary system, in terms of pure math, is just the group $\mathbb{Z}^+$. Whether this is [[Cyclic groups|cyclic]] or [[Hausdorff]] is unclear because I need my textbook, but I believe it does, since those are the properties of the group $\mathbb{Z}$. It is just the group $\mathbb{Z}$ and all the properties are the exact same, it's just "spoken in a different language". 
+The binary system, in terms of pure math, is just the group $\mathbb{Z}^+$. Whether this is [[Cyclic groups|cyclic]] or [[Hausdorff]] is unclear because I need my textbook, but I believe it does, since those are the properties of the group $\mathbb{Z}$, just "spoken in a different language". 
 
 Example: $$
 \begin{align}
@@ -14,3 +14,5 @@ Example: $$
 $$
 # In terms of discrete math
 Binary is a centerpiece of discrete math as this is how computers communicate with one another. Lots of research has been done on the mathematical foundations of such a field, and generally, the information coincides with that of pure math.
+# Relationship with decimals
+[[Number Conversions]]

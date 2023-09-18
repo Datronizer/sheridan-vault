@@ -13,13 +13,10 @@ There will be 5 quizzes, all monitored using [[Lockdown Browser]].
 **Exams:** 
 - Midterm Exam: 25%
 - Final Exam: 25%
-
 # Passing grade
 Follows the [[General Sheridan Terminology#50/50 rule|50/50 rule]].
 
 Detailed course description can be found here: https://ulysses.sheridanc.on.ca/coutline/coutlineview.jsp?print=true&courseCode=10049&subjectCode=SYST&version=2023050800&appver=sal&d=null&s=null
-
-
 # Standard file organization
 ## Relative path
 You should organize your files in hierarchichal order.
@@ -40,21 +37,14 @@ This path is called the relative path. You navigate down by typing the file and 
 Since HTML searches for these files using paths, it is **highly recommended** that you have a logical, hierarchical system for an easier, more organized site.
 
 Also, do use relative paths in your site since submitting assignments will have the interpreter look for the relative file in the submitted assignments rather than your drive. 
-
 ## Absolute path
 Example: `http://www.apache.org/foundation/FAQ.html`
 This is an absolute path. From this link, you go directly to the file, no circular referencing or folder navigation. It's a straightshot to FAQ.html, passing through a supposed "folder" called `foundation`.
-
-
 # Uploading your work
 You are to upload your work to <a href="https://tech.fast.sheridanc.on.ca/services/lamp">cPanel</a>. Go there and use it as you would with your uYeti work repository. This is your cloud VM and you can store your files to make a website here.
 
 Login:
 > [!username]- truonchi
 > [!password]- redacted
-
-
-
-
-
-
+# Lectures
+[[Lecture 2]]

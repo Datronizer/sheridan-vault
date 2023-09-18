@@ -3,7 +3,6 @@
 Real numbers are basically any numbers we tend to use on a daily basis, this can be positive or negative, decimals or whole numbers, rational or irrational. For a more detailed analysis, refer to [[Real Numbers]].
 
 Real numbers are composed of a lot of complex elements and outliers. Storing these real numbers as they are is extremely inconvenient. For example, how much [[Lecture 2 - PROG12583#Memory Map (memmap)|storage]] do we need to store a number like $3.14?$ How many bytes do we need to store this? Where does the floating point go? WHAT IS A FLOATING POINT? 
-
 ## Floating-Point Numbers
 ## Double Precision floating point numbers
 A typical floating point number is 4bytes in value. But, for double the accuracy, we often use **double-precision floats**, these are instead 8 bytes.

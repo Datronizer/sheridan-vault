@@ -31,3 +31,6 @@ Textbooks are not required to purchase as they are available "elsewhere". You ca
 - There are tons of theory for this course.
 - You don't get free grades, no makeup tests, no grace marks.
 - And answer attendance questions during class.
+# Lectures
+[[Lecture 1 - TELE13167]]
+[[Lecture 2 - TELE13167]]
