@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
+                "file": "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
+                "file": "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
+                "file": "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python-prog12583/Lectures/Lecture 4 - PROG12583.md"
+                "file": "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md"
               }
             }
           },
@@ -199,9 +199,13 @@
   },
   "active": "fa8960bf2b9d70ec",
   "lastOpenFiles": [
+    "computer-math-math18584/Lectures/Lecture 2 - MATH18584.md",
+    "computer-math-math18584/Lectures/Lecture 4 - MATH18584.md",
+    "computer-math-math18584/Lectures/Lecture 3 - MATH18584.md",
+    "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
+    "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 3 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
-    "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 1 - PROG12583.md",
     "Lecture 2 - HIST.md",
     "Sheridan College.md",
@@ -211,10 +215,7 @@
     "data-communications-tele13167/Concepts/The Internet.md",
     "data-communications-tele13167/Lectures/Lecture 1 - TELE13167.md",
     "data-communications-tele13167/Concepts/Airport Metaphor.md",
-    "computer-math-math18584/Lectures/Lecture 2 - MATH18584.md",
     "Floating point.md",
-    "computer-math-math18584/Lectures/Lecture 3 - MATH18584.md",
-    "computer-math-math18584/Lectures/Lecture 4 - MATH18584.md",
     "python-prog12583/Concepts/Floating-Point Numbers.md",
     "python-prog12583/PROG12583 - Programming Foundations - Python.md",
     "python-prog12583/Concepts/ASCII Table.md",
@@ -224,7 +225,6 @@
     "computer-math-math18584/Concepts/Binary.md",
     "computer-math-math18584/Concepts/Placevalues.md",
     "computer-math-math18584/Concepts/Number Conversions.md",
-    "computer-math-math18584/Concepts/Decimals.md",
     "Images",
     "Images/Pasted image 20230918085535.png",
     "data-communications-tele13167/Concepts",
