@@ -61,7 +61,7 @@ $$
 &6F2
 \end{align}
 $$
-# Floating point
+# [[Floating-Point Numbers]]
 Expanded notion of binary numbers with a fixed binary point
 What is 1001.00101 as a decimal number?
 %%TODO: Note incomplete, refer to class powerpoint to fill this with information.

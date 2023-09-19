@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:computer-math-math18584  ",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -48,11 +48,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.529106029106029,
+  "repelStrength": 12.1621621621622,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7610160700527406,
+  "linkDistance": 73,
+  "scale": 0.6481731512429363,
   "close": false
 }

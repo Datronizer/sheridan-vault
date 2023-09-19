@@ -1,13 +1,3 @@
-#lecture
-# Integrated Development Environment (IDE)
-Generally, developers use IDEs to aid with development as opposed to coding on other text editors. The reason being IDEs have a lot of tools for syntax correction, highlighting, and language support for most, if not all, coding languages.
-
-A few popular ones are [Visual Studio Code (VS Code)](https://code.visualstudio.com), [Visual Studio (VS 2019)](https://visualstudio.microsoft.com), [IntelliJ](https://www.jetbrains.com/idea/), [pyCharm](https://www.jetbrains.com/pycharm/), etc. but generally VS Code is preferred as it is highly customizable, decently light compared to its counterparts, and the fact that it is community run.
-# Libraries
-If we recall from last time, there are [[Lecture 1 - PROG12583#Arithmetic operators|6 operators]] in Python. But what if we need to find a symbol or operator that isn't there? Like how do I print the value of π? How do I do square root? The answer to these questions is using a library!
-
-A library is basically what you think it is. It is a collection of methods, specifically designed to run in machine language (as opposed to interpreter language), thus ensuring optimal performance as if it was a native method.
-# [[Memory Maps|Memory Map (memmap)]] 
 ## Memory limitations
 Try punching $69!$ into your calculator, now do $70!$. You'll soon see that this is not possible. The reason for this is because calculators run on buses and memory chips. These chips have a limit to how much they can store/compute. The current limit right now is $10^99$, but that is hugeeeee compared to the first calculators: 99. Yes, only 99, less than 100. We call this a **chomp** because, you know, chomp (this is also placeholder numbers, it's technically FF = 256, not 99. It's also a "byte". But this example is easier to grasp).
 
@@ -41,21 +31,8 @@ Say we have 3 variables:
 | 9       | 00   |         |
 | etc.    | ...  | ...     |
 
-Python allocates some memory for your variables **based on their data types**. When you declare a variable in other languages, you must also declare a type so that the interpreter/compiler can allocate room in its memory. A `00` with **no variables** denotes a [[#Stop sign|stop sign]], meaning whatever after it is a new variable.
+Python allocates some memory for your variables **based on their data types**. When you declare a variable in other languages, you must also declare a type so that the interpreter/compiler can allocate room in its memory. A `00` with **no variables** denotes a break, meaning whatever after it is a new variable.
 
 Often times, it, as well as us, overshoot the allocation and waste memory. Compare a `short` of value `55` and an `int` of value `55`. The `short` will just have 1 address of size 1 chomp. The `int` would have a size of 4 chomps because it needs to allocate extra room as `00 00 00 55`. This wastes a ton of memory.
 ## Stop sign
 A stop sign is a byte that signifies a "stop" of an object(?) currently being stored in the memory. One way to look at it is to see it is to imagine textbooks being stored as only unordered pages. How do we know where one book ends and the other begins? We need a divider that splits these pages and a "label" after the dividers to clarify which pages belong to which book.
-# [[ASCII table]]
-The ASCII table is a table of all characters supported in ASCII, for example, pi. Here's how you can type these characters into your text editor.
-- Look up the ASCII number of the symbol
-- Hold Alt and type that number
-- The new symbol should appear
-## History
-Now that we know how memory allocation works, we can discuss the formation of the ASCII table. The ASCII table was formed from a need for a unified memory organization system for characters in a computer. 
-
-Suppose my PC allocates A = 65, B = 66, etc. and your PC allocates A = 42, B = 43, etc. If I send an email to you, the contents inside my email, which is converted from letters to numbers to be sent, to your inbox, to letters again, will be jumbled because we have different addresses for our characters. This got annoying fast, so computer scientists eventually got together to address the issue and form the ASCII table.
-
-This was fine for a while until we realized we need to accommodate all the other languages like Arabic, Chinese, Hebrew, etc. We then realized we needed way more than 99 letters. So we did the simplest thing: we combined 2 bytes into the new standard. Fullcircle.
-# Homework:
-TODO: Find other string methods and use them.

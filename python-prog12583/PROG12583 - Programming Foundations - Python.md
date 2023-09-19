@@ -2,8 +2,9 @@
 [[Lecture 1 - PROG12583]]
 [[Lecture 2 - PROG12583]]
 [[Lecture 3 - PROG12583]]
+[[Lecture 4 - PROG12583]]
 # Evaluation
-Follows the [[General Sheridan Terminology#50/50 rule|50/50 rule]]
+Follows the [[Sheridan College#50/50 rule|50/50 rule]]
 Evals:
 - Assignments: 7.5% x 4 = 30%
 - Quizzes: 2% x 5 = 10%

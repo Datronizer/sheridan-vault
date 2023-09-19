@@ -9,7 +9,7 @@ Evaluations:
 - Finals: 35%
 - Assignment: 2 x 7.5% = 15%
 - In-class activities: 4 x 2.5% = 10
-Follows the [[General Sheridan Terminology#50/50 rule|50/50 rule]], and the [[General Sheridan Terminology#SLATE submission|3 days late work rule]]
+Follows the [[Sheridan College#50/50 rule|50/50 rule]], and the [[Sheridan College#SLATE submission|3 days late work rule]]
 No makeup assessments permitted. Once you submit something, the grade is your final grade.
 If there are extenuating circumstances, inform instructor 3 days prior to the testing date.
 # Textbook

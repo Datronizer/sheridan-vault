@@ -1,5 +1,5 @@
 #lecture
-# The Internet
+# [[The Internet]]
 An internet is a connection between 2 networks. Inter- is between, net is an interweaving structure, like a network. Hence the definition.
 But **The Internet** is a network of networks. It's impersonal but it is also personal.
 # Before the Internet

@@ -43,7 +43,7 @@ Generally when you want to send something from A to B, the IP Address tells you 
 > [!note] It's easier to look at this as 2 people travelling to Japan. The IP person will focus on the endgoal--Japan. The MAC person will focus on what airport the layover will be at. 
 
 ### Logical Connections
-We often think of communicating with someone over the internet is a direct connection. News flash, it isn't. You are actually connecting through multiple nodes before you get to your friend. See [[airport metaphor]].
+We often think of communicating with someone over the internet is a direct connection. News flash, it isn't. You are actually connecting through multiple nodes before you get to your friend. See [[Airport Metaphor]].
 #### Sending a message example
 Below is the process of sending a message to person B.
 1. I send a message through an application, usually an API request.

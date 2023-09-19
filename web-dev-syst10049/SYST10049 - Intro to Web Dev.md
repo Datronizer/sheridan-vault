@@ -14,7 +14,7 @@ There will be 5 quizzes, all monitored using [[Lockdown Browser]].
 - Midterm Exam: 25%
 - Final Exam: 25%
 # Passing grade
-Follows the [[General Sheridan Terminology#50/50 rule|50/50 rule]].
+Follows the [[Sheridan College#50/50 rule|50/50 rule]].
 
 Detailed course description can be found here: https://ulysses.sheridanc.on.ca/coutline/coutlineview.jsp?print=true&courseCode=10049&subjectCode=SYST&version=2023050800&appver=sal&d=null&s=null
 # Standard file organization
