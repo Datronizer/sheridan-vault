@@ -6,7 +6,6 @@ This course starts around 16th century and continues to modern time.
 Book not necessary but the class is very interactive. Ask questions, and interact with the rest of the class.
 
 65% of college population of Canada are college students.
-
 # Textbooks
 - *Canada: A Concise History* by Margaret Conrad, CUP 2012
 - *The Making of the Mosaic: A History of Canadian Immigration Policy* by Ninette Kelley, M.J. Trebilcock
@@ -26,3 +25,8 @@ These books are free in the online library. You just have to read them. Accessib
 	- Proper citations
 	- 
 No late works accepted, extension needed way prior to deadline.
+
+Follows [[Sheridan College#50/50 rule|50/50 rule]]
+# Lectures
+[[Lecture 1]]
+[[Lecture 2 - HIST]]
