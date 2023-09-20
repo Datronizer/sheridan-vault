@@ -16,20 +16,12 @@
             }
           },
           {
-            "id": "464ec79bf317fb92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "8df9a1e5a745d278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 2 - MATH18584.md",
+                "file": "canadian-history-hist19936g/Lecture 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5dfb52f3cf744721",
@@ -113,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "canadian-history-hist19936g/Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "canadian-history-hist19936g/Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "canadian-history-hist19936g/Lecture 3.md"
+              }
             }
           },
           {
@@ -170,17 +168,8 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "433fb1f2fe19b59d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,40 +187,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fa8960bf2b9d70ec",
+  "active": "27e772050fda05f3",
   "lastOpenFiles": [
-    "canadian-history-hist19936g/Understanding Canadian History - HIST19936G.md",
-    "canadian-history-hist19936g/Lecture 1.md",
-    "canadian-history-hist19936g/Lecture 2 - HIST.md",
-    "GSDC.md",
-    "tech-comms-comm13729/TODO.md",
-    "tech-comms-comm13729/Lecture 2.md",
+    "computer-math-math18584/Lectures/Lecture 2 - MATH18584.md",
     "tech-comms-comm13729/COMM13729 - The Art of Technical Communication.md",
-    "tech-comms-comm13729/Images/Pasted image 20230912124757.png",
-    "tech-comms-comm13729/Images/Pasted image 20230912135400.png",
-    "tech-comms-comm13729/Images",
-    "computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
-    "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
-    "computer-math-math18584/Concepts/Boolean Algebra.md",
-    "canadian-history-hist19936g",
-    "TODO.md",
+    "canadian-history-hist19936g/Understanding Canadian History - HIST19936G.md",
+    "tech-comms-comm13729/Lecture 2.md",
+    "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
+    "canadian-history-hist19936g/Lecture 3.md",
     "tech-comms-comm13729/Images/Pasted image 20230912142832.png",
     "tech-comms-comm13729/Images/Pasted image 20230912134456.png",
-    "DeMorgan's Law.md",
-    "computer-math-math18584/Concepts/Untitled.md",
-    "computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
-    "python-prog12583/PROG12583 - Programming Foundations - Python.md",
+    "tech-comms-comm13729/Images/Pasted image 20230912135400.png",
+    "tech-comms-comm13729/Images/Pasted image 20230912124757.png",
+    "tech-comms-comm13729/Images",
+    "computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+    "computer-math-math18584/Concepts/Boolean Algebra.md",
+    "canadian-history-hist19936g/Lecture 2 - HIST.md",
     "computer-math-math18584/Lectures/Lecture 4 - MATH18584.md",
+    "computer-math-math18584/Lectures/Lecture 3 - MATH18584.md",
+    "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 3 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 1 - PROG12583.md",
+    "Lecture 2 - HIST.md",
     "Sheridan College.md",
     "^an $x.md",
+    "GSDC.md",
     "Lockdown Browser.md",
     "data-communications-tele13167/Concepts/The Internet.md",
     "data-communications-tele13167/Lectures/Lecture 1 - TELE13167.md",
     "data-communications-tele13167/Concepts/Airport Metaphor.md",
-    "computer-math-math18584/Lectures/Lecture 2 - MATH18584.md",
+    "Floating point.md",
+    "python-prog12583/Concepts/Floating-Point Numbers.md",
+    "python-prog12583/PROG12583 - Programming Foundations - Python.md",
     "Images",
     "Images/Pasted image 20230918085535.png",
     "data-communications-tele13167/Concepts",
@@ -241,6 +229,7 @@
     "python-prog12583/Concepts",
     "python-prog12583/Lectures",
     "data-communications-tele13167/Lectures",
-    "computer-math-math18584/Concepts"
+    "computer-math-math18584/Concepts",
+    "computer-math-math18584/Lectures"
   ]
 }

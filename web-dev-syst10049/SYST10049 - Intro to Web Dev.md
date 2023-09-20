@@ -47,4 +47,4 @@ Login:
 > [!username]- truonchi
 > [!password]- redacted
 # Lectures
-[[Lecture 2]]
+[[web-dev-syst10049/Lectures/Lecture 2]]

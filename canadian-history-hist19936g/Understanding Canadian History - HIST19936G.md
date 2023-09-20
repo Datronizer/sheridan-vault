@@ -30,3 +30,4 @@ Follows [[Sheridan College#50/50 rule|50/50 rule]]
 # Lectures
 [[Lecture 1]]
 [[Lecture 2 - HIST]]
+[[Lecture 3]]
