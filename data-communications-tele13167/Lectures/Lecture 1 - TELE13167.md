@@ -10,11 +10,11 @@ Life was quite interesting prior to the creation of **The Internet**
 
 **In 1974**, TCP/IP was invented and eliminated the need for a central control. But there were challenges in trying to get 2 networks to communicate. A bank might have faster internet than a home network. They might be more secure. Their packets might be bigger. 
 
-The solution? A default gateway, nowadays, it's your router! It allows your network to pass through the router, the router would then negotiate with the router on the other end and agree on speeds and packets, then the network reaches the other router and the other user. Kind of like an airport.
+The solution? A default gateway! Nowadays, it's your router! It allows your network to pass through the router, the router would then negotiate with the router on the other end and agree on speeds and packets, then the network reaches the other router and the other user. Kind of like an [[Airport Metaphor|airport]].
 # Circuit switched / Packet Switched
-For old telephones, when the phones connect, the line stays open until you hang up, even if you're not speaking. And the data connects through only 1 path. That's **circuit switch**.
+For old telephones, when the phones connect, the line stays open until you hang up, even if you're not speaking. And the data connects through only 1 path. That's **circuit switch**. Because the switch is done through circuits ahaaaaa.
 
-**Packet switched** networks would close the connection after the packet is sent. Each packet can travel independently on different paths.
+**Packet switched** networks would close the connection after the packet is sent. Each packet can travel independently on different paths. Here the switches are flipped per packet. Once a packet is done sending, the connection closes. In a way, the packet switches the connections.
 # Network Certifications
 AWS and CISCO certifications are really sought after, the CISCO one is more commonly known as CCNA. Python and CISSP are also popular certifications for your resume in networking.
 
@@ -40,18 +40,18 @@ There are 3 things we have to be able to identify: nodes, links, interfaces.
 	- A link can be point to point or point to multi point.
 - Nodes are like places that the data can stop at/be processed/final destination (think dongle to dongle or dongle to PC).
 - Interface is where links connect to nodes (the USB jack where the cable connects to the PC).
-
+## Types of network
 These are the 4 different types of network, ranked from smallest range to largest range: PAN, LAN, MAN, WAN.
-## PAN (Personal Area Network)
+### PAN (Personal Area Network)
 Super short range, usually between 2 devices, without need for a router. Smaller than LAN. Think bluetooth.
-## LAN (Local Area Network)
+### LAN (Local Area Network)
 The formal definition is that it is a collection of devices that are in a single geographic area.
 Irl, it could be small like a home, or large like Sheridan's campus, but the defining characteristic is that **all devices are within a geographic area**.
 
 Think connection within a room.
-## MAN (Metropolitan Area Network)
+### MAN (Metropolitan Area Network)
 Think connections within a city like 2 law firms connect to each other from across town.
-## WAN (Wide Area Network)
+### WAN (Wide Area Network)
 Think "large distances" like across countries.
 # Physical Topology
 Refers to a way in which the nodes of a network are laid out.
@@ -61,7 +61,7 @@ There are 4 basic topologies:
 - Bus (everything connects to a line)
 - Ring (i mean...)
 ## Full Mesh Topology
-**Description:** Everything device connects to each other
+**Description:** Every device connects to each other
 **Fault tolerance:** Highest fault tolerance since there are many backup connections. You could lose 3/5 computers and the other 2 can still talk to each other.
 **Ease to setup/expand:** Difficult, you need a ton of wires to make this work.
 **Cost:** Expensive because tons of wire and switches are needed.

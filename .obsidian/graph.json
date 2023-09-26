@@ -39,14 +39,14 @@
       "query": "path:data-communications-tele13167  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 2546027
       }
     },
     {
       "query": "path:canadian-history-hist19936g  ",
       "color": {
         "a": 1,
-        "rgb": 9589472
+        "rgb": 8020621
       }
     }
   ],
@@ -59,7 +59,7 @@
   "centerStrength": 0.529106029106029,
   "repelStrength": 12.1621621621622,
   "linkStrength": 1,
-  "linkDistance": 123,
-  "scale": 0.6481731512429381,
+  "linkDistance": 73,
+  "scale": 0.9681619554185937,
   "close": false
 }

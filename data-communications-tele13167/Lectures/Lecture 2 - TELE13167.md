@@ -15,7 +15,7 @@ Imagine writing a letter to someone using a Caesar Cipher. There are multiple st
 7. Decode
 8. Read
 
-As we can see, these steps mirror each other between 4 and 5. And as you can see, the tasks are opposite of each other, and at every step, the corresponding objects are identical.
+As we can see, these steps mirror each other between 4 and 5. And as you can see, the tasks are opposite of each other, and at every step, the corresponding objects are identical. The message is "layered" and sent, received and "unlayered".
 ### Pros and Cons
 | x | Single | Multiple | 
 | -- | -- | -- |
@@ -32,11 +32,11 @@ Behold, cool table:
 
 | Layer       | Physical Data Unit (PDU) | Address                | Function                                           | Devices       | Protocols                                |
 | ----------- | ------------------------ | ---------------------- | -------------------------------------------------- | ------------- | ---------------------------------------- |
-| Application | Message                  | Application specific   | Acts as a bridge between software and lower layers |               | HTTP, FTP, SMTP, POP3, Telnet, SSH, etc. | 
-| Transport   | Segment                  | Port Number            | Finds the right program                            |               | TCP, UDP                                 |
+| Application | Message                  | Application specific   | Acts as a bridge between software and lower layers | n/a           | HTTP, FTP, SMTP, POP3, Telnet, SSH, etc. |
+| Transport   | Segment                  | Port Number            | Finds the right program                            | n/a           | TCP, UDP                                 |
 | Network     | Packet                   | IP address             | "Big picture"--Finds the right final PC            | Router        | IPv4, IPv6                               |
 | Datalink    | Frame                    | Physical address (MAC) | Finds each next stop along the way                 | Switch bridge | Ethernet (802.3), Wifi (802.11)          |
-| Physical    | Bits                     | N/A                    | Converts the frame ^^^ into bits                   | Hubs          | ^                                         |
+| Physical    | Bits                     | N/A                    | Converts the frame ^^^ into bits                   | Hubs          | ^                                        |
 
 Generally when you want to send something from A to B, the IP Address tells you the big picture. There's a source IP and there's a destination IP. But the MAC address doesn't show this. Rather, it points out the next destination. The destination MAC address is on the next device, the destination IP is the final device, ignoring the whole path.
 
