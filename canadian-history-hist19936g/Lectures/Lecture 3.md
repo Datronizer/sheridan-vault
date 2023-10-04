@@ -1,13 +1,11 @@
 # The first peoples before 1500 & 
-Aboriginals did not have written history so we couldn't determine their exact history. We know that they were rational, advanced, long distance trades, etc.
-
+Aboriginals did not have written history so we couldn't determine their exact history. But we do know that they were rational, advanced, have long distance trades, etc.
 # Society
+Society is more egalitarian than European history.
 ## Private property
 Private property isn't a concept that aboriginals have since it never made sense to them. Aboriginal society is focused on sharing property and land. Owning the land is like owning the sky, the air, the animals within it, the spirits within that land.
 
-But the Europeans don't think like that. They
-
-Society is more egalitarian than European history.
+But the Europeans don't think like that. Their society is shaped around the concept of private property, thus this clash in ideologies means that Europeans can take advantage and rob the natives of the land.
 ## Economies
 Summer - Hunting for big marine game
 Fall - Hunt for birds
