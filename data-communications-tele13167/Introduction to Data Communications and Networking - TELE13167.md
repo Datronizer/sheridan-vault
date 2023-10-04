@@ -34,3 +34,5 @@ Textbooks are not required to purchase as they are available "elsewhere". You ca
 # Lectures
 [[Lecture 1 - TELE13167]]
 [[Lecture 2 - TELE13167]]
+[[Lecture 3 - TELE13167]]
+

@@ -23,11 +23,11 @@ As we can see, these steps mirror each other between 4 and 5. And as you can see
 |Cons |  |  - Slower <br/> - Higher chance of miscommunication (interpret message incorrectly)|
 
 // TODO: Fill in the single one.
-## Placeholder (get from .pptx)
+### Placeholder (get from .pptx)
 
-## TCP/IP
+### TCP/IP
 When we send someone a letter, why do we include the name and the address? The address is clear => you need to ensure your mail gets to the right house, but why the name? Well, when the mail arrives without a name, how will you know if it's yours or your mom's? (see how I snuck your mom in there? That's crazy.)
-#### The 5 TCP/IP layers
+##### The 5 TCP/IP layers
 Behold, cool table:
 
 | Layer       | Physical Data Unit (PDU) | Address                | Function                                           | Devices       | Protocols                                |

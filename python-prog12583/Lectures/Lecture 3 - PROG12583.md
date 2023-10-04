@@ -15,11 +15,15 @@ A typical floating point number is 4 bytes in value. But, for double the accurac
 ## Encoding
 Nowadays, we don't have to worry too much about these questions. 
 
-How do we denote real numbers in computer language. Well, one way is to return all these numbers to a common form. Take $3.14$ for example. How do we get this number if we started with $314$?
+How do we denote real numbers in computer language. Well, one way is to return all these numbers to a common form. Take $3.14$ for example. How do we notate this in [[memory maps]]?
+
+We can do what is colloquially known as "numeric gymnastics", specifically, we convert the decimal number into scientific notation.
 
 Well we know $3.14 * 10^2 = 314\equiv 314 * 10^-2 = 3.14$ so we can denote it in this way and store that into the memory for ease of use. Why? Well computers only store things in terms of bytes. The only way we can satisfy this condition is to convert everything to bytes (we split them wherever necessary and give them "lookup values").
 
 In computers, we use what is called **encoding IEEE 745** to encode data into bytes and send them to the memory for storage. We don't really need to know how it works, just consider it a "black box operation" that magically stacks your stuff neatly into the memory.
+
+Unfortunately, since our number can only be stored in 4 bytes, chances are information will be lost upon encoding and decoding since the number would be chopped off. So, uh... yeah. **DON'T TEST FOR EQUALITY FOR FLOATING POINT NUMBERS WITHOUT AN ADDITIONAL ALGORITHM**.
 
 **IEEE 745** is generally really good at storing data into the memory, but it is terrible at computation. this is when we rely on something called the [[#Math coprocessor]].
 # Math coprocessor

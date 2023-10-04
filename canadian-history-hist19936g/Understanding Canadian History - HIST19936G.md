@@ -30,4 +30,5 @@ Follows [[Sheridan College#50/50 rule|50/50 rule]]
 # Lectures
 [[Lecture 1]]
 [[Lecture 2 - HIST]]
-[[canadian-history-hist19936g/Lecture 3]]
+[[canadian-history-hist19936g/Lectures/Lecture 3]]
+[[Lecture 4]]

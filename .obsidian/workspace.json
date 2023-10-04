@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "464ec79bf317fb92",
+            "id": "07ba0723cc4095dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-dev-syst10049/Lectures/Lecture 4 (I skipped last week).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8df9a1e5a745d278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 2 - MATH18584.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -37,13 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-prog12583/Concepts/ASCII Table.md",
+                "file": "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff2d0fa0982954df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web-dev-syst10049/Lectures/Lecture 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web-dev-syst10049/Lectures/Lecture 4 (I skipped last week).md",
+                "file": "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web-dev-syst10049/Lectures/Lecture 4 (I skipped last week).md",
+                "file": "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web-dev-syst10049/Lectures/Lecture 4 (I skipped last week).md"
+                "file": "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md"
               }
             }
           },
@@ -184,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,38 +194,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "464ec79bf317fb92",
+  "active": "1283faec2571f768",
   "lastOpenFiles": [
-    "TODO.md",
-    "Sheridan College.md",
-    "GSDC.md",
-    "logic.ly.md",
-    "Images/Pasted image 20230925081911.png",
+    "computer-math-math18584/Concepts/Boolean Algebra.md",
+    "computer-math-math18584/Concepts/Binary.md",
+    "computer-math-math18584/Concepts/Counting numbers.md",
+    "computer-math-math18584/Concepts/Decimals.md",
+    "computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+    "computer-math-math18584/Lectures/Lecture 6 - MATH18584.md",
+    "computer-math-math18584/Lectures/Lecture 8 - MATH18584.md",
+    "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
+    "web-dev-syst10049/Lectures/Lecture 5.md",
+    "Group.md",
     "web-dev-syst10049/Lectures/Lecture 4 (I skipped last week).md",
+    "python-prog12583/Lectures/Lecture 7 - PROG12583.md",
+    "python-prog12583/Lectures/Lecture 3 - PROG12583.md",
+    "python-prog12583/Lectures/Lecture 5 - PROG12583.md",
+    "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
+    "python-prog12583/Lectures/Lecture 6 - PROG12583.md",
+    "python-prog12583/PROG12583 - Programming Foundations - Python.md",
+    "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
+    "Associativity.md",
+    "computer-math-math18584/Concepts/Number Conversions.md",
+    "computer-math-math18584/Concepts/Placevalues.md",
+    "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
+    "Sheridan College.md",
+    "computer-math-math18584/Modulo.md",
+    "data-communications-tele13167/Lectures/Lecture 3 - TELE13167.md",
+    "python-prog12583/Concepts/ASCII Table.md",
+    "canadian-history-hist19936g/Lectures",
+    "canadian-history-hist19936g/Concepts",
+    "Images/Pasted image 20230925081911.png",
     "Images/Pasted image 20230926084108.png",
     "Images/Pasted image 20230926084107.png",
-    "web-dev-syst10049/Lectures/Lecture 3.md",
-    "python-prog12583/Lectures/Lecture 6 - PROG12583.md",
-    "python-prog12583/Lectures/Lecture 5 - PROG12583.md",
-    "python-prog12583/Lectures/Lecture 3 - PROG12583.md",
-    "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
-    "computer-math-math18584/Concepts/Boolean Algebra.md",
-    "computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
-    "computer-math-math18584/Lectures/Lecture 6 - MATH18584.md",
-    "computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
-    "computer-math-math18584/Lectures/Lecture 2 - MATH18584.md",
-    "data-communications-tele13167/Lectures/Lecture 2 - TELE13167.md",
-    "data-communications-tele13167/Lectures/Lecture 1 - TELE13167.md",
-    "data-communications-tele13167/Concepts/The Internet.md",
-    "data-communications-tele13167/Concepts/Airport Metaphor.md",
-    "web-dev-syst10049/Lectures/Lecture 2.md",
-    "tech-comms-comm13729/TODO.md",
-    "tech-comms-comm13729/COMM13729 - The Art of Technical Communication.md",
-    "tech-comms-comm13729/Lecture 2.md",
     "Untitled.canvas",
-    "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
-    "canadian-history-hist19936g/Lecture 3.md",
-    "canadian-history-hist19936g/Understanding Canadian History - HIST19936G.md",
     "tech-comms-comm13729/Images/Pasted image 20230912124757.png",
     "tech-comms-comm13729/Images/Pasted image 20230912135400.png",
     "tech-comms-comm13729/Images",
@@ -242,8 +240,6 @@
     "web-dev-syst10049/Lectures",
     "web-dev-syst10049/Concepts",
     "python-prog12583/Concepts",
-    "python-prog12583/Lectures",
-    "data-communications-tele13167/Lectures",
-    "computer-math-math18584/Concepts"
+    "python-prog12583/Lectures"
   ]
 }

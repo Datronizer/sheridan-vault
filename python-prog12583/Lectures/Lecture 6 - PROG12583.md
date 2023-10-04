@@ -13,4 +13,8 @@ The simplest way to format a `print` is to use `print('{:}', format())`. This is
   > print('{0:5.2f}'.format(12.3456))
 
 The `5` signifies the "width" or "length" of the number/string. The `.2f` signifies 2 decimal places of a float, hence the `f`. The value you wish to format stays inside of `format()`
+
+The `0` signifies the index of the "replacement". Basically means "hey Python, please replace the 0th format specifier with this string and format it." 
 ```
+
+You can justify text by pointing in the direction you want it justified, e.g.: right justify would be `print("hello!".rjust(14,*))`. This yields `******hello!`
