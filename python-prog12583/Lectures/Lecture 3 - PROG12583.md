@@ -10,6 +10,8 @@ ajsdkjk
 ## Short
 ## Byte
 
+## Strings
+I think you will be surprised to know that strings are actually... bytes! It makes sense though! A string is basically an [[Lecture 8 - PROG12583#Lists (Arrays)|array]] of characters (we'll talk about arrays later). But each of these characters can be denoted with an ASCII value, aka, a byte! 
 ## Double Precision floating point numbers
 A typical floating point number is 4 bytes in value. But, for double the accuracy, we often use **double-precision floats**, these are instead 8 bytes.
 ## Encoding

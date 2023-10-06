@@ -17,3 +17,5 @@ Refer to the <a href="https://slate.sheridancollege.ca/d2l/le/content/1136444/vi
 [[Lecture 4 - MATH18584]]
 [[Lecture 5 - MATH18584]]
 [[Lecture 6 - MATH18584]]
+[[Lecture 8 - MATH18584]]
+[[Lecture 9 - MATH18584]]

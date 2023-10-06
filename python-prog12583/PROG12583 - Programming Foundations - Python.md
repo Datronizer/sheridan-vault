@@ -6,6 +6,7 @@
 [[Lecture 5 - PROG12583]]
 [[Lecture 6 - PROG12583]]
 [[Lecture 7 - PROG12583]]
+[[Lecture 8 - PROG12583]]
 # Evaluation
 Follows the [[Sheridan College#50/50 rule|50/50 rule]]
 Evals:

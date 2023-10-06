@@ -73,8 +73,8 @@ Example: $$
 10001 + 11001 &= 101010
 \end{align}
 $$
-## Group
-By default, since the binary numbering system is just another representation of the decimal system (which is already a group),
+# In terms of Abstract Math
+In the realm of abstract math, it can be hard to determine the characteristics of Boolean Algebra, but we can draw some conclusions on what they are. For example, from the laws and theorems of abstract math, we see that they are at least associative. We know that Booleans are associative, transitive, and commutative. This makes sense as this is an equivalence relation. Here are some information I extracted. Warning, it may not be comprehensive:
 ## [[Group]]
 Following the definition of a group, we see that:
 - Associativity on $+$ : $(a + b) + c = a + (b + c)$ applies for all $x \in \{0, 1\}$.
@@ -84,9 +84,9 @@ Following the definition of a group, we see that:
 
 Thus the binary set is not a group. This is similarly proven for the $\cdot$ operation.
 ## Cyclic
-The "binary" set is not cyclic. In fact, it is simply proven by looking at the nature of Boolean algebra. 
+The "binary" set is not cyclic. In fact, it is simply proven because it's not even a group. It's also not even a cyclic set.  
 
 Proof:
-Suppose the binary set is cyclic. Then a + b
+Suppose the binary set is cyclic. Then $a + b \in S = \{0, 1\}$ for some $a, b \in S$. However, a counterexample exists: $0 + 1 = 1, 1 + 1 = 1, 1 + 1 = 1, etc...$ and it keeps repeating, never actually **cycling** back to 0. Thus the Boolean set is not cyclic.
 ## Additional info
 Refer to [here](https://www.sciencedirect.com/topics/mathematics/finite-binary-string) for additional information.
