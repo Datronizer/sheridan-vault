@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e872968cbd0e94f0",
+        "id": "bfb65caf318c90b4",
         "type": "tabs",
         "children": [
           {
-            "id": "07ba0723cc4095dc",
+            "id": "27686efee3722d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-math-math18584/Concepts/Group.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37771bc926bfc1ad",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,24 +28,12 @@
             }
           },
           {
-            "id": "1283faec2571f768",
+            "id": "ebb8534116f791e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2d0fa0982954df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-dev-syst10049/Lectures/Lecture 5.md",
+                "file": "web-dev-syst10049/Lectures/Lecture 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,34 +190,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1283faec2571f768",
+  "active": "37771bc926bfc1ad",
   "lastOpenFiles": [
+    "web-dev-syst10049/Lectures/Lecture 6.md",
+    "web-dev-syst10049/Lectures/Lecture 5 (I skipped last week).md",
+    "web-dev-syst10049/Lectures/Lecture 3.md",
+    "web-dev-syst10049/Lectures/Lecture 2.md",
+    "web-dev-syst10049/SYST10049 - Intro to Web Dev.md",
+    "data-communications-tele13167/Lectures/Lecture 4 - TELE13167.md",
+    "data-communications-tele13167/Lectures/Lecture 1 - TELE13167.md",
+    "data-communications-tele13167/Lectures/Lecture 3 - TELE13167.md",
+    "data-communications-tele13167/Lectures/Lecture 2 - TELE13167.md",
     "computer-math-math18584/Concepts/Boolean Algebra.md",
-    "computer-math-math18584/Concepts/Binary.md",
+    "computer-math-math18584/Concepts/Group.md",
+    "python-prog12583/Lectures/Lecture 8 - PROG12583.md",
     "computer-math-math18584/Concepts/Counting numbers.md",
     "computer-math-math18584/Concepts/Decimals.md",
-    "computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
-    "computer-math-math18584/Lectures/Lecture 6 - MATH18584.md",
-    "computer-math-math18584/Lectures/Lecture 8 - MATH18584.md",
-    "computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
-    "web-dev-syst10049/Lectures/Lecture 5.md",
-    "Group.md",
-    "web-dev-syst10049/Lectures/Lecture 4 (I skipped last week).md",
-    "python-prog12583/Lectures/Lecture 7 - PROG12583.md",
+    "computer-math-math18584/Concepts/Placevalues.md",
+    "computer-math-math18584/Concepts/Number Conversions.md",
+    "computer-math-math18584/Concepts/Cyclic groups.md",
     "python-prog12583/Lectures/Lecture 3 - PROG12583.md",
-    "python-prog12583/Lectures/Lecture 5 - PROG12583.md",
+    "python-prog12583/Concepts/Memory Maps.md",
+    "python-prog12583/Concepts/Floating-Point Numbers.md",
+    "python-prog12583/PROG12583 - Programming Foundations - Python.md",
+    "array.md",
     "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 6 - PROG12583.md",
-    "python-prog12583/PROG12583 - Programming Foundations - Python.md",
+    "python-prog12583/Lectures/Lecture 5 - PROG12583.md",
     "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
-    "Associativity.md",
-    "computer-math-math18584/Concepts/Number Conversions.md",
-    "computer-math-math18584/Concepts/Placevalues.md",
-    "computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
-    "Sheridan College.md",
-    "computer-math-math18584/Modulo.md",
-    "data-communications-tele13167/Lectures/Lecture 3 - TELE13167.md",
-    "python-prog12583/Concepts/ASCII Table.md",
     "canadian-history-hist19936g/Lectures",
     "canadian-history-hist19936g/Concepts",
     "Images/Pasted image 20230925081911.png",

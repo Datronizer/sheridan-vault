@@ -33,7 +33,7 @@ Another thing that can help are networking associations where you network about 
 There are 3 ways of communicating:
 - **Simplex:** One way communication (mouse controls tower).
 - **Half-duplex:** Two way communication, but asynchronous, A to B gotta wait for the information to be transmitted from B to A before they can trasmit (walkie-talkies).
-- **Full-duplex:** Two way but data can be sent back and forth the whole time without waiting (discord call).
+- **Full-duplex:** Two way but data can be sent back and forth the whole time without waiting (discord call). ^1ebe7e
 # Network
 There are 3 things we have to be able to identify: nodes, links, interfaces.
 - Links connect nodes (think USB cable).
