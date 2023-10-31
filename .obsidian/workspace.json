@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27686efee3722d88",
+            "id": "9b48003a207b0acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-math-math18584/Concepts/Group.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37771bc926bfc1ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "ebb8534116f791e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web-dev-syst10049/Lectures/Lecture 6.md",
+                "file": "python-prog12583/Concepts/Memory Maps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:datatype",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python-prog12583/Concepts/Memory Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "python-prog12583/Concepts/Memory Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "python-prog12583/Concepts/Memory Maps.md"
+              }
             }
           },
           {
@@ -173,11 +156,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,34 +174,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37771bc926bfc1ad",
+  "active": "9b48003a207b0acc",
   "lastOpenFiles": [
-    "web-dev-syst10049/Lectures/Lecture 6.md",
-    "web-dev-syst10049/Lectures/Lecture 5 (I skipped last week).md",
-    "web-dev-syst10049/Lectures/Lecture 3.md",
-    "web-dev-syst10049/Lectures/Lecture 2.md",
-    "web-dev-syst10049/SYST10049 - Intro to Web Dev.md",
-    "data-communications-tele13167/Lectures/Lecture 4 - TELE13167.md",
-    "data-communications-tele13167/Lectures/Lecture 1 - TELE13167.md",
-    "data-communications-tele13167/Lectures/Lecture 3 - TELE13167.md",
-    "data-communications-tele13167/Lectures/Lecture 2 - TELE13167.md",
-    "computer-math-math18584/Concepts/Boolean Algebra.md",
-    "computer-math-math18584/Concepts/Group.md",
-    "python-prog12583/Lectures/Lecture 8 - PROG12583.md",
-    "computer-math-math18584/Concepts/Counting numbers.md",
-    "computer-math-math18584/Concepts/Decimals.md",
-    "computer-math-math18584/Concepts/Placevalues.md",
-    "computer-math-math18584/Concepts/Number Conversions.md",
-    "computer-math-math18584/Concepts/Cyclic groups.md",
-    "python-prog12583/Lectures/Lecture 3 - PROG12583.md",
+    "python-prog12583/Concepts/Intermediate Datatypes.md",
+    "python-prog12583/Concepts/Simple Data Types.md",
+    "computer-math-math18584/Modulo.md",
     "python-prog12583/Concepts/Memory Maps.md",
+    "python-prog12583/Concepts/Python.md",
+    "python-prog12583/Concepts/Dictionaries.md",
+    "python-prog12583/Lectures/Lecture 10 - PROG12583.md",
     "python-prog12583/Concepts/Floating-Point Numbers.md",
+    "Integers.md",
     "python-prog12583/PROG12583 - Programming Foundations - Python.md",
-    "array.md",
-    "python-prog12583/Lectures/Lecture 4 - PROG12583.md",
-    "python-prog12583/Lectures/Lecture 6 - PROG12583.md",
-    "python-prog12583/Lectures/Lecture 5 - PROG12583.md",
+    "python-prog12583/Lectures/Lecture 9 - PROG12583.md",
+    "python-prog12583/Concepts/ASCII Table.md",
     "python-prog12583/Lectures/Lecture 2 - PROG12583.md",
+    "python-prog12583/Lectures/Lecture 1 - PROG12583.md",
+    "Modular Arithmetic.md",
+    "computer-math-math18584/Concepts/Bridge/Associativity.md",
+    "computer-math-math18584/Concepts/Bridge",
+    "computer-math-math18584/Concepts/Untitled.md",
+    "web-dev-syst10049/SYST10049 - Intro to Web Dev.md",
+    "array.md",
+    "tech-comms-comm13729/COMM13729 - The Art of Technical Communication.md",
+    "computer-math-math18584/Concepts/Decimals.md",
+    "computer-math-math18584/Lectures/Lecture 10 - MATH18584.md",
+    "computer-math-math18584/Lectures/Lecture 11 - MATH18584.md",
+    "computer-math-math18584/Concepts/Boolean Algebra.md",
+    "computer-math-math18584/Concepts/Binary.md",
+    "computer-math-math18584/Concepts/Counting numbers.md",
+    "unnamed (1).jpg",
+    "computer-math-math18584/Assignments",
     "canadian-history-hist19936g/Lectures",
     "canadian-history-hist19936g/Concepts",
     "Images/Pasted image 20230925081911.png",
@@ -234,8 +221,6 @@
     "Images/Pasted image 20230918085535.png",
     "data-communications-tele13167/Concepts",
     "web-dev-syst10049/Lectures",
-    "web-dev-syst10049/Concepts",
-    "python-prog12583/Concepts",
-    "python-prog12583/Lectures"
+    "web-dev-syst10049/Concepts"
   ]
 }

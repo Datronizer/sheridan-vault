@@ -1,3 +1,9 @@
+---
+tags:
+  - lecture
+  - math
+---
+
 #lecture
 Most numbers we use in daily life are formed from 10 numbers: 0, 1, 2,...,9. And we would arrange these numbers in a system called [[Decimals]].  Deci- being 10, -mal being system => Base 10 system.
 

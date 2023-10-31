@@ -30,7 +30,7 @@ Say we have 3 variables:
 | Address | Byte | Var     |
 | ------- | ---- | ------- |
 | 0       | 12   | s0      |
-| 1       | 34   | s0      |
+| 1       | 34   |         | 
 | 2       | 00   | "break" |
 | 3       | 88   | i0      |
 | 4       | 99   |         |
