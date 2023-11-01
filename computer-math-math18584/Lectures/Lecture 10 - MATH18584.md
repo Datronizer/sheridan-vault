@@ -1,6 +1,0 @@
----
-tags:
-  - math
-  - skipped
----
-# Convert 

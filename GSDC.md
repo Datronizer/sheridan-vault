@@ -1,2 +1,0 @@
-Pizaan Tadiwala
-Connor Uhrig
