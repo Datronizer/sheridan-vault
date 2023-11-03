@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bfb65caf318c90b4",
+        "id": "4cdc8ec8f3e3d989",
         "type": "tabs",
         "children": [
           {
-            "id": "9b48003a207b0acc",
+            "id": "04e00b3155639275",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Textbooks/Book list.md",
+                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8e5be962ca92d993",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Textbooks/History/Canadian History/Ninette Kelley, Michael J. Trebilcock - The Making of the Mosaic_ A History of Canadian Immigration Policy-Univ of Toronto Pr (1998).pdf"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textbooks/Book list.md",
+                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textbooks/Book list.md",
+                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textbooks/Book list.md"
+                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md"
               }
             }
           },
@@ -184,52 +174,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b48003a207b0acc",
+  "active": "04e00b3155639275",
   "lastOpenFiles": [
-    "Textbooks/Coding/Python/begintocodewithpython.pdf",
-    "Textbooks/Coding/Python/datastructuresandalgorithmsinpython.pdf",
-    "Textbooks/Coding/Python/deitel_pythonforprogrammers.pdf",
-    "Textbooks/Book list.md",
+    "semester-1/data-communications-tele13167/Class Powerpoints/README.md",
+    "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
+    "semester-1/data-communications-tele13167/Class Powerpoints/TELE13167 Notes Part 2 - Material on Final Exam.pptx",
+    "semester-1/data-communications-tele13167/Class Powerpoints",
+    "NAT.md",
+    "semester-1/data-communications-tele13167/Lectures/Lecture 3 - TELE13167.md",
+    "semester-1/data-communications-tele13167/Lectures/Lecture 4 - TELE13167.md",
     "READ BEFORE USE.md",
-    "Textbooks/Coding/Python/learnenoughpythontobedangerous.pdf",
-    "Textbooks/Coding/Python/learnpython3thehardway.pdf",
-    "Textbooks/Coding/Python/superchargedpython.pdf",
-    "Textbooks/Coding/Python/pythondistilled.pdf",
-    "Textbooks/Coding/Python/learnmorepython3thehardway.pdf",
-    "Textbooks/Coding/Python/effectivepython.pdf",
-    "Textbooks/Coding/Python/pythonwithoutfear.pdf",
-    "semester-1/computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
-    "semester-1/canadian-history-hist19936g/Lectures/Lecture 6.md",
-    "[[Ninette.md",
-    "misc/Sheridan College.md",
-    "misc/Notes.md",
-    "semester-1/computer-math-math18584/Concepts/Boolean Algebra.md",
-    "semester-1/computer-math-math18584/Concepts/Counting numbers.md",
-    "semester-1/computer-math-math18584/Concepts/Decimals.md",
-    "external/Abstract Algebra/Group.md",
-    "semester-1/computer-math-math18584/Concepts/logic.ly.md",
-    "misc/GSDC.md",
-    "semester-1/computer-math-math18584/Concepts/Integers.md",
-    "semester-1/computer-math-math18584/Concepts/Modular Arithmetic.md",
-    "Images/unnamed (1).jpg",
-    "TODO.md",
-    "Untitled.md",
-    "Untitled.canvas",
+    "semester-1/data-communications-tele13167/Lectures/Untitled",
+    "semester-1/canadian-history-hist19936g/Understanding Canadian History - HIST19936G.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 5.md",
+    "trueongod.com.md",
+    "python-prog12583/Concepts/Memory Maps.md",
+    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/Webpage.md",
+    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/Hypertext Markup Language.md",
+    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/CSS.md",
+    "semester-1/web-dev-syst10049/Concepts/Webpage & Components",
+    "semester-1/web-dev-syst10049/Lectures/Lecture 6.md",
     "semester-1/web-dev-syst10049/Lectures/Lecture 8.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
-    "semester-1/python-prog12583/Concepts/Memory Maps.md",
-    "semester-1/python-prog12583/Concepts/Intermediate Datatypes.md",
-    "semester-1/python-prog12583/Concepts/Simple Data Types.md",
-    "semester-1/computer-math-math18584/Modulo.md",
-    "semester-1/python-prog12583/Concepts/Python.md",
-    "python-prog12583/Concepts/Dictionaries.md",
+    "semester-1/web-dev-syst10049/Lectures/Lecture 7.md",
+    "semester-1/web-dev-syst10049/Lectures/Lecture 5 (I skipped last week).md",
+    "semester-1/web-dev-syst10049/Lectures/Lecture 3.md",
+    "semester-1/web-dev-syst10049/Lectures/Lecture 2.md",
+    "semester-1/web-dev-syst10049/1.2_Web_Overview.html",
+    "semester-1/web-dev-syst10049/SYST10049 - Intro to Web Dev.md",
+    "semester-1/web-dev-syst10049/Lectures",
+    "semester-1/web-dev-syst10049/Concepts",
+    "semester-1/web-dev-syst10049",
+    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912134456.png",
+    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912142832.png",
+    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912135400.png",
+    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912124757.png",
+    "semester-1/tech-comms-comm13729/TODO.md",
+    "semester-1/tech-comms-comm13729/Lecture 2.md",
+    "semester-1/tech-comms-comm13729/COMM13729 - The Art of Technical Communication.md",
+    "semester-1/tech-comms-comm13729/Images",
+    "semester-1/tech-comms-comm13729",
+    "semester-1/python-prog12583/Lectures/Lecture 9 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 8 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 7 - PROG12583.md",
+    "Images/unnamed (1).jpg",
+    "unnamed (1).jpg",
     "Images/Pasted image 20230925081911.png",
     "Images/Pasted image 20230926084108.png",
     "Images/Pasted image 20230926084107.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912124757.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912135400.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912142832.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912134456.png",
-    "Images/Pasted image 20230918085535.png"
+    "Untitled.canvas",
+    "tech-comms-comm13729/Images/Pasted image 20230912124757.png"
   ]
 }

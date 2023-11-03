@@ -1,0 +1,1 @@
+Click on folder and hit "show in explorer" or whatever the option is on Mac and Linux. The PowerPoint is right in there.
