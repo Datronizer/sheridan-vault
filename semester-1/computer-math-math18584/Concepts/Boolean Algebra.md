@@ -1,6 +1,6 @@
 # Boolean Statements
 # Boolean Operators
-We can combine Boolean statements together with logical operators.
+We can combine [[Simple Data Types#Booleans (`bool`)|Boolean]] statements together with logical operators.
 
 | A   | B   | A AND B | A OR B | A XOR B | NOT A | NOT B |
 | --- | --- | ------- | ------ | ------- | ----- | ----- |
