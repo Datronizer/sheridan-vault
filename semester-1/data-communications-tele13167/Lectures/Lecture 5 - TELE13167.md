@@ -117,17 +117,17 @@ The 0's table will yield 0, 64, 128, 192. These are called "blocks" because, you
 
 Anyways. Now that we have the decimals, let's do something fun. We can set up the following table to hopefully clarify what's going on. The steps are performed downwards. The columns are just other examples of what would happen if we take more bits.
 
-| x                      | Class C: 2bits borrowed             | Class C: 3bits borrowed         | Class C: 5 bits borrowed |
-| ---------------------- | ----------------------------------- | ------------------------------- | ------------------------ |
-| Schematic              | 8 8 8 2                             | 8 8 8 3                         | 8 8 8 5                  |
-| Submask                | 255.255.255.192 (128 + 64)          | 255.255.255.224 (128 + 64 + 32) | 255.255.255.248          |
-| Block size             | 256 (max octet size*) - 192 = 64    | 256 - 224 = 32                  | 256 - 248 = 8            |
-| Smallest IP (SIP)      | 200.200.200.0, &.64**, &.128, &.192 | &.0, &.32, &.64, &.96, &.128    | &.0, &.8, &.16, &.24     |
-| Biggest IP (BIP)       | &.63, &.127, &.191, &.255           | &.31, &.63, &.91, &.127         | &.7, &.15, &.23, &.31    |
-| Valid Host Range (VHR)*** | 1-62, 65-126, 129-190, etc.         | etc.                            | etc.                         |
+| x                         | Class C: 2bits borrowed             | Class C: 3bits borrowed         | Class C: 5 bits borrowed |
+| ------------------------- | ----------------------------------- | ------------------------------- | ------------------------ |
+| Schematic                 | 8 8 8 2                             | 8 8 8 3                         | 8 8 8 5                  |
+| Submask                   | 255.255.255.192 (128 + 64)          | 255.255.255.224 (128 + 64 + 32) | 255.255.255.248          |
+| Block size                | 256 (max octet size*) - 192 = 64    | 256 - 224 = 32                  | 256 - 248 = 8            |
+| Subnet ID (SID)           | 200.200.200.0, &.64**, &.128, &.192 | &.0, &.32, &.64, &.96, &.128    | &.0, &.8, &.16, &.24     |
+| Broadcast ID (BID)        | &.63, &.127, &.191, &.255           | &.31, &.63, &.91, &.127         | &.7, &.15, &.23, &.31    |
+| Valid Host Range (VHR)*** | 1-62, 65-126, 129-190, etc.         | etc.                            | etc.                     |
 
 \* Max octet size (256) is NOT the same as max octet value (255). The former is how many numbers there are (including 0), the latter is how high the IP could actually go (starting from 0). 
-\** Here I am using `&` as a shorthand for 200.200.200.200 because I am not rewriting that shit lmao.
+\** Here I am using `&` as a shorthand for 200.200.200.X because I am not rewriting that shit lmao.
 \*** I explain this in a [[#^1|later section]]
 
 Let's think back to our Assignment 1. We have an IP address of 210.30.45.X with a subnet mask of 255.255.255.240. So, the block size for this would be $256 - 240 = 16$. That's 4 bits ($2^4 = 16$). 

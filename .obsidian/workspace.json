@@ -11,15 +11,24 @@
             "id": "f835ccfd29ccd300",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "94be026bd695f8bc",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/python-prog12583/Concepts/Simple Data Types.md",
+                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/python-prog12583/Concepts/Simple Data Types.md",
+                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/python-prog12583/Concepts/Simple Data Types.md",
+                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/python-prog12583/Concepts/Simple Data Types.md"
+                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md"
               }
             }
           },
@@ -174,21 +183,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f835ccfd29ccd300",
+  "active": "94be026bd695f8bc",
   "lastOpenFiles": [
     "semester-1/computer-math-math18584/Concepts/Boolean Algebra.md",
+    "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
+    "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
+    "semester-1/data-communications-tele13167/Class Powerpoints/README.md",
+    "semester-1/python-prog12583/Concepts/Intermediate Datatypes.md",
+    "semester-1/computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
     "semester-1/python-prog12583/Concepts/Simple Data Types.md",
     "semester-1/python-prog12583/Concepts/Python.md",
-    "semester-1/python-prog12583/Concepts/Intermediate Datatypes.md",
     "semester-1/python-prog12583/Concepts/Integers.md",
     "semester-1/python-prog12583/Concepts/ASCII Table.md",
     "semester-1/python-prog12583/Concepts/Floating-Point Numbers.md",
     "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md",
-    "semester-1/data-communications-tele13167/Class Powerpoints/README.md",
     "semester-1/computer-math-math18584/Concepts/Functions.md",
     "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
     "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
-    "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
     "semester-1/data-communications-tele13167/Class Powerpoints/TELE13167 Notes Part 2 - Material on Final Exam.pptx",
     "semester-1/data-communications-tele13167/Class Powerpoints",
     "NAT.md",
@@ -204,8 +215,6 @@
     "semester-1/web-dev-syst10049/Concepts/Webpage & Components/Hypertext Markup Language.md",
     "semester-1/web-dev-syst10049/Concepts/Webpage & Components/CSS.md",
     "semester-1/web-dev-syst10049/Concepts/Webpage & Components",
-    "semester-1/web-dev-syst10049/Lectures/Lecture 6.md",
-    "semester-1/web-dev-syst10049/Lectures/Lecture 8.md",
     "semester-1/web-dev-syst10049/1.2_Web_Overview.html",
     "semester-1/web-dev-syst10049/Lectures",
     "semester-1/web-dev-syst10049/Concepts",
