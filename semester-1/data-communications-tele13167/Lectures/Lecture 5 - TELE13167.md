@@ -1,6 +1,6 @@
 # Network Layer
 ## Duties of the Network Layer
-- Packetizing
+- Packetizing (encapsulating and decapsulating the data)
 - [[#Routing]] and [[#forwarding]]
 - Carry a payload from source to destination without changing the contents
 ## Routing
@@ -62,7 +62,6 @@ NAT routers do provide some level of security by blocking foreign connections. I
 NAT routers also allows grouping of people, so many private addresses can use 1 public IP.
 # Domain Name Services (DNS)
 Basically put, it converts domain name to IP address by looking it up in LAN -> ISP -> ISP's ISP -> ISP's ISP's Server -> ISP -> LAN -> you. It's a very tedious process that is simplified through automation and robust systems.
-
 # IPv6
 IPv6 has 128 bits while IPv4 has 32bits (boooo, cringeee). As you can already see, this allows for additional addresses, meaning we finally have enough addresses for everyone.
 
@@ -71,10 +70,10 @@ Another benefit is that there is increased security and there is no need for sub
 ## IPv4 - Address Space
 There are 3 classes of IP addresses:
 - Class A: Uses the first octet for network information (cannot be changed)
-	- Example: Sheridan's 152.145 is the network info. Cannot be changed, pre-assigned.
 	- The other 3 octets are free to use/host
 	- First octet is number between 0-126
 - Class B: Uses first 2 octets for network information (cannot be changed)
+	- Example: Sheridan's 152.145 is the network info. Cannot be changed, pre-assigned.
 	- The other 2 octets are free to use/host
 	- First octet is number between 128-191
 - Class C: Uses first 3 octets for network information (cannot be changed)

@@ -51,4 +51,4 @@ Login:
 [[semester-1/web-dev-syst10049/Lectures/Lecture 3|Lecture 3]]
 [[Lecture 5 (I skipped last week)]]
 [[semester-1/web-dev-syst10049/Lectures/Lecture 6]]
-[[Lecture 7]]
+[[semester-1/web-dev-syst10049/Lectures/Lecture 7]]
