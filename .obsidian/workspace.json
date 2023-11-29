@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md"
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md"
               }
             }
           },
@@ -183,11 +183,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94be026bd695f8bc",
+  "active": "27e772050fda05f3",
   "lastOpenFiles": [
-    "semester-1/computer-math-math18584/Concepts/Boolean Algebra.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 15 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 17 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
+    "semester-1/web-dev-syst10049/Lectures/Lecture 9.md",
+    "semester-1/python-prog12583/Lectures/Lecture 13 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 12.md",
+    "semester-1/python-prog12583/Lectures/Lecture 9 - PROG12583.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
+    "semester-1/data-communications-tele13167/Lectures/Lecture 7 - TELE13167.md",
     "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
     "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
+    "semester-1/computer-math-math18584/Concepts/Boolean Algebra.md",
     "semester-1/data-communications-tele13167/Class Powerpoints/README.md",
     "semester-1/python-prog12583/Concepts/Intermediate Datatypes.md",
     "semester-1/computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
@@ -198,22 +207,13 @@
     "semester-1/python-prog12583/Concepts/Floating-Point Numbers.md",
     "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md",
     "semester-1/computer-math-math18584/Concepts/Functions.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
     "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
     "semester-1/data-communications-tele13167/Class Powerpoints/TELE13167 Notes Part 2 - Material on Final Exam.pptx",
     "semester-1/data-communications-tele13167/Class Powerpoints",
     "NAT.md",
     "semester-1/data-communications-tele13167/Lectures/Lecture 3 - TELE13167.md",
     "semester-1/data-communications-tele13167/Lectures/Lecture 4 - TELE13167.md",
-    "READ BEFORE USE.md",
     "semester-1/data-communications-tele13167/Lectures/Untitled",
-    "semester-1/canadian-history-hist19936g/Understanding Canadian History - HIST19936G.md",
-    "semester-1/canadian-history-hist19936g/Lectures/Lecture 5.md",
-    "trueongod.com.md",
-    "python-prog12583/Concepts/Memory Maps.md",
-    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/Webpage.md",
-    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/Hypertext Markup Language.md",
-    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/CSS.md",
     "semester-1/web-dev-syst10049/Concepts/Webpage & Components",
     "semester-1/web-dev-syst10049/1.2_Web_Overview.html",
     "semester-1/web-dev-syst10049/Lectures",
