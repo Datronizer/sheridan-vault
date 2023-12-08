@@ -43,5 +43,5 @@ Well if we sketch the equation on a graph (add wolfram alpha graph here), we see
 - The domain is $[0, \infty)$
 - The range is $[0,\infty)$
 
-Don't forget, we can use the [[#set notation]] in addition to the [[#interval notation]]. In that case, our domain and range are $D=\{x | x \ge 0, x\in \mathbb{R}\}$ and $R=\{y | y \ge 0, y\in \mathbb{R}\}$ respectively.
+Don't forget, we can use the [[Lecture 12 - MATH18784#Set-builder notation|set-builder notation]] in addition to the [[#interval notation]]. In that case, our domain and range are $D=\{x | x \ge 0, x\in \mathbb{R}\}$ and $R=\{y | y \ge 0, y\in \mathbb{R}\}$ respectively.
 

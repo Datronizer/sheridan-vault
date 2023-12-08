@@ -1,5 +1,19 @@
 # Sequences
 A sequence is simply a list of numbers that follow a pattern. For example: the list of all integers is in fact a sequence. The list of all even numbers greater than 0 is a sequence. 
+
+Sequences can be represented as
+$$
+\begin{align}
+s &= a_i, a_{i+1},... \\
+&\text{where} \\
+a_{n+1} &= f(a_{n}) \space\space(\forall{n},\exists f : a_n\rightarrow a_{n+1} )
+\end{align}
+$$
+Basically this means in a sequence, there always exists a function of some sort that will give us the next number in the sequence.
+
+Example: 
+- $1,4,9,16,25,...$ is a sequence of the equation $s = a_i^2$.
+- $1,2,3,4,5,6,...$ is a sequence of the equation $s = a_i$
 # Series
 ## Definition
 A series is, simply put, the sum of a sequence.
@@ -22,3 +36,5 @@ $$
 e^x = \sum \frac{1}{n!} x^n = \frac{1}{0!}x^0 + \frac{1}{1!}x^1 + \frac{1}{2!}x^2 + \space...
 $$
 Here the summation without any notation is used as a shorthand for infinite series, typically from 0 to infinity.
+
+Typically series expansions are more commonly seen in [[Calculus 2]] or [[Partial Differential Equations]]. We often use these to approximate values of weird graphs that don't have a straightforward answer. 
