@@ -22,5 +22,9 @@ Refer to the <a href="https://slate.sheridancollege.ca/d2l/le/content/1136444/vi
 [[Lecture 10 - MATH18584]]
 [[Lecture 11 - MATH18584]]
 [[Lecture 12 - MATH18784]]
+[[Lecture 13 - MATH18784]]
+[[Lecture 15 - MATH18784]]
+[[Lecture 17 - MATH18784]]
+[[Lecture 18 - MATH18784]]
 # Assignments
 [[Assignment 2 - Chien Truong]]
