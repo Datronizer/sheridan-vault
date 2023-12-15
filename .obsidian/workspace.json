@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "internship-and-coop/profiling/holman/staff/Jasmine Vu.md",
+                "file": "semester-1/python-prog12583/Lectures/Lecture 3 - PROG12583.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "45b5f4a0eac7e537",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20230918085535.png"
               }
             }
           }
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "internship-and-coop/profiling/holman/staff/Jasmine Vu.md",
+                "file": "semester-1/python-prog12583/Lectures/Lecture 3 - PROG12583.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "internship-and-coop/profiling/holman/staff/Jasmine Vu.md",
+                "file": "semester-1/python-prog12583/Lectures/Lecture 3 - PROG12583.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "internship-and-coop/profiling/holman/staff/Jasmine Vu.md"
+                "file": "semester-1/python-prog12583/Lectures/Lecture 3 - PROG12583.md"
               }
             }
           },
@@ -189,42 +199,43 @@
   },
   "active": "17f0502453526cf0",
   "lastOpenFiles": [
-    "internship-and-coop/profiling/holman/Holman.md",
-    "internship-and-coop/profiling/holman/staff/Jasmine Vu.md",
+    "semester-1/python-prog12583/Lectures/Lecture 2 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 3 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 4 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 5 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 6 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 8 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 9 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 10 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 12.md",
+    "semester-1/python-prog12583/Lectures/Lecture 13 - PROG12583.md",
+    "semester-1/python-prog12583/Lectures/Lecture 14 - PROG12583.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 17 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 15 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 6 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 4 - MATH18584.md",
+    "Images/Pasted image 20230918085535.png",
+    "semester-1/computer-math-math18584/Lectures/Lecture 3 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 8 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 6.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 5.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 4.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 9.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 7.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
     "internship-and-coop/profiling/holman/staff",
     "internship-and-coop/profiling/holman",
-    "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
     "internship-and-coop/profiling",
     "internship-and-coop",
-    "semester-1/data-communications-tele13167/Lectures/Lecture 4 - TELE13167.md",
-    "semester-1/data-communications-tele13167/Lectures/Lecture 3 - TELE13167.md",
-    "semester-1/data-communications-tele13167/Lectures/Lecture 1 - TELE13167.md",
-    "semester-1/computer-math-math18584/Assignments/Assignment 3 - Chien Truong.md",
     "unnamed (2).jpg",
     "Pasted image 20231113225952.png",
-    "semester-1/computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 11 - MATH18584.md",
-    "semester-1/web-dev-syst10049/Lectures/Lecture 8.md",
-    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/CSS.md",
-    "semester-1/web-dev-syst10049/Lectures/Lecture 7.md",
-    "semester-1/web-dev-syst10049/Lectures/Lecture 5 (I skipped last week).md",
-    "semester-1/web-dev-syst10049/Lectures/Lecture 6.md",
     "Untitled.canvas",
     "Pasted image 20231113230007.png",
     "Pasted image 20231113221033.png",
     "Pasted image 20231113221029.png",
-    "semester-1/canadian-history-hist19936g/Lectures/Lecture 7.md",
-    "semester-1/canadian-history-hist19936g/Lectures/Lecture 6.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 10 - MATH18584.md",
-    "semester-1/python-prog12583/Concepts/Simple Data Types.md",
-    "semester-1/computer-math-math18584/Concepts/Boolean Algebra.md",
-    "semester-1/python-prog12583/Concepts/Python.md",
-    "semester-1/python-prog12583/Concepts/Intermediate Datatypes.md",
-    "semester-1/python-prog12583/Concepts/Integers.md",
-    "semester-1/python-prog12583/Concepts/ASCII Table.md",
-    "semester-1/python-prog12583/Concepts/Floating-Point Numbers.md",
     "semester-1/data-communications-tele13167/Class Powerpoints/TELE13167 Notes Part 2 - Material on Final Exam.pptx",
     "semester-1/data-communications-tele13167/Class Powerpoints",
     "semester-1/data-communications-tele13167/Lectures/Untitled",
@@ -234,7 +245,6 @@
     "semester-1/tech-comms-comm13729/Images/Pasted image 20230912134456.png",
     "semester-1/tech-comms-comm13729/Images/Pasted image 20230912142832.png",
     "semester-1/tech-comms-comm13729/Images/Pasted image 20230912135400.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912124757.png",
-    "Images/unnamed (1).jpg"
+    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912124757.png"
   ]
 }
