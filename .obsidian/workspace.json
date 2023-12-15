@@ -11,17 +11,21 @@
             "id": "f835ccfd29ccd300",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 4 - MATH18584.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "94be026bd695f8bc",
+            "id": "c7722469aa6b87b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 11 - MATH18584.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 11 - MATH18584.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 11 - MATH18584.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md"
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 11 - MATH18584.md"
               }
             }
           },
@@ -183,54 +187,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27e772050fda05f3",
+  "active": "c7722469aa6b87b1",
   "lastOpenFiles": [
-    "semester-1/computer-math-math18584/Lectures/Lecture 15 - MATH18784.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 17 - MATH18784.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
-    "semester-1/web-dev-syst10049/Lectures/Lecture 9.md",
-    "semester-1/python-prog12583/Lectures/Lecture 13 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 12.md",
-    "semester-1/python-prog12583/Lectures/Lecture 9 - PROG12583.md",
     "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 11 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 9 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 8 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 6 - MATH18584.md",
+    "Images/Pasted image 20230918085535.png",
+    "semester-1/computer-math-math18584/Lectures/Lecture 4 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 3 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 10 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 17 - MATH18784.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 15 - MATH18784.md",
+    "semester-1/data-communications-tele13167/Lectures/Lecture 8 - TELE13167.md",
     "semester-1/data-communications-tele13167/Lectures/Lecture 7 - TELE13167.md",
     "semester-1/data-communications-tele13167/Lectures/Lecture 6 - TELE13167.md",
     "semester-1/data-communications-tele13167/Lectures/Lecture 5 - TELE13167.md",
-    "semester-1/computer-math-math18584/Concepts/Boolean Algebra.md",
-    "semester-1/data-communications-tele13167/Class Powerpoints/README.md",
-    "semester-1/python-prog12583/Concepts/Intermediate Datatypes.md",
-    "semester-1/computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
-    "semester-1/python-prog12583/Concepts/Simple Data Types.md",
-    "semester-1/python-prog12583/Concepts/Python.md",
-    "semester-1/python-prog12583/Concepts/Integers.md",
-    "semester-1/python-prog12583/Concepts/ASCII Table.md",
-    "semester-1/python-prog12583/Concepts/Floating-Point Numbers.md",
-    "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md",
-    "semester-1/computer-math-math18584/Concepts/Functions.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
+    "semester-1/data-communications-tele13167/Lectures/Lecture 4 - TELE13167.md",
+    "semester-1/web-dev-syst10049/Lectures/Lecture 10.md",
+    "semester-1/python-prog12583/Lectures/Lecture 14 - PROG12583.md",
+    "Pasted image 20231113225952.png",
+    "Pasted image 20231113221033.png",
+    "Pasted image 20231113221029.png",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 4.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 5.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 6.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 9.md",
+    "semester-1/canadian-history-hist19936g/Lectures/Lecture 7.md",
+    "Textbooks/History/Canadian History/Ninette Kelley, Michael J. Trebilcock - The Making of the Mosaic_ A History of Canadian Immigration Policy-Univ of Toronto Pr (1998).pdf",
+    "unnamed (2).jpg",
+    "internship-and-coop/profiling/holman/staff",
+    "internship-and-coop/profiling/holman",
+    "internship-and-coop/profiling",
+    "internship-and-coop",
+    "Untitled.canvas",
+    "Pasted image 20231113230007.png",
     "semester-1/data-communications-tele13167/Class Powerpoints/TELE13167 Notes Part 2 - Material on Final Exam.pptx",
     "semester-1/data-communications-tele13167/Class Powerpoints",
-    "NAT.md",
-    "semester-1/data-communications-tele13167/Lectures/Lecture 3 - TELE13167.md",
-    "semester-1/data-communications-tele13167/Lectures/Lecture 4 - TELE13167.md",
     "semester-1/data-communications-tele13167/Lectures/Untitled",
     "semester-1/web-dev-syst10049/Concepts/Webpage & Components",
     "semester-1/web-dev-syst10049/1.2_Web_Overview.html",
-    "semester-1/web-dev-syst10049/Lectures",
-    "semester-1/web-dev-syst10049/Concepts",
-    "semester-1/web-dev-syst10049",
     "semester-1/tech-comms-comm13729/Images/Pasted image 20230912134456.png",
     "semester-1/tech-comms-comm13729/Images/Pasted image 20230912142832.png",
     "semester-1/tech-comms-comm13729/Images/Pasted image 20230912135400.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912124757.png",
-    "semester-1/tech-comms-comm13729/Images",
-    "semester-1/tech-comms-comm13729",
-    "Images/unnamed (1).jpg",
-    "unnamed (1).jpg",
-    "Images/Pasted image 20230925081911.png",
-    "Images/Pasted image 20230926084108.png",
-    "Images/Pasted image 20230926084107.png",
-    "Untitled.canvas",
-    "tech-comms-comm13729/Images/Pasted image 20230912124757.png"
+    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912124757.png"
   ]
 }

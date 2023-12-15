@@ -12,6 +12,11 @@ We compute the easiest ones first: 255 is all 1s in [[binary]] and 0 is all 0s. 
 2. Divide IP with block size using the [[method]] to get the right binary expansion.
 3. Convert binary expansion back to decimals.
 
+There is a way faster method:
+1. Find block size
+2. Divide IP by Block size
+3. Take only the whole part of the answer
+4. Multiply that by the block size
 # TCP
 - Reliable
 - 3-way handshake
@@ -52,7 +57,7 @@ Imagine your computer and server ending the talk. Suppose all the numbers being 
 	- Flag: Synchronize (ACK, FIN)
 	- Sequence #: 151 =>
 	- Acknowledgement: \x
-1. The computer then goes "Hm? Yes."vigegi
+1. The computer then goes "Hm? Yes."
 	- Flag: (ACK) -
 	- Sequence #: 21 (random sequential number of 20.)
 	- Acknowledgement number: x + 1
