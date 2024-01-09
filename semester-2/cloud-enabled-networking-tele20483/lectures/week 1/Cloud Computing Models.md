@@ -26,7 +26,7 @@ The cloud supports many software processes. I want you to think of it like a "vi
 
 ## Cloud Service Offerings Model
 Here is a very good image that shows what the cloud service offers based on service tiers.
-![[Pasted image 20240108121716.png]]
+![[Pasted image 20240108121716 1.png]]
 
 As you can see SaaS only offers Applications for use. This is generally good enough for most users. 
 Of course developers would require Data manipulation in addition to Applications. Thus, PaaS would be better for them.

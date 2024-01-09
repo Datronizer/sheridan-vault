@@ -11,8 +11,12 @@
             "id": "c5acd3541be0150e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "semester-2/java-oop-prog23863/concepts/Unicode.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "semester-2/java-oop-prog23863/concepts/Unicode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "semester-2/java-oop-prog23863/concepts/Unicode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "semester-2/java-oop-prog23863/concepts/Unicode.md"
+              }
             }
           },
           {
@@ -168,8 +176,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5acd3541be0150e",
+  "active": "27e772050fda05f3",
   "lastOpenFiles": [
+    "semester-2/java-oop-prog23863/concepts/Unicode.md",
+    "semester-2/java-oop-prog23863/concepts/Unicode.md",
+    "README.md",
+    "Untitled.md",
     "semester-2/java-oop-prog23863/lectures/week-1/helloWorld.java",
     "semester-2/java-oop-prog23863/lectures/week-1/Lecture 1.md",
     "semester-2/java-oop-prog23863/OOP with Java - PROG23863.md",
@@ -184,12 +196,7 @@
     "semester-1/python-prog12583/Assignment/submission.py",
     "semester-1/python-prog12583/Assignment/Assignment 4.py",
     "semester-1/python-prog12583/Assignment/assignment_3_chien_truong.py",
-    "semester-1/python-prog12583/Assignment",
-    "Untitled.md",
-    "Unicode.md",
-    "README.md",
-    "Pasted image 20240108121716.png",
-    "semester-2/java-oop-prog23863/concepts/Unicode.md",
+    "Images/Pasted image 20240108121716 1.png",
     "Images/Pasted image 20231113221029.png",
     "Untitled.canvas",
     "semester-1/python-prog12583/Concepts/ASCII Table.md",
