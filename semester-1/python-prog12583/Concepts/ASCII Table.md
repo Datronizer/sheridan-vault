@@ -7,4 +7,6 @@ Now that we know how memory allocation works, we can discuss the formation of th
 
 Suppose my PC [[Memory Maps|allocates]] A = 65, B = 66, etc. and your PC allocates A = 42, B = 43, etc. If I send an email to you, the contents inside my email, which is [[Lecture 2 - TELE13167#The 5 TCP/IP layers|converted from letters to numbers]] to be sent, to your inbox, to letters again, will be jumbled because we have different addresses for our characters. This got annoying fast, so computer scientists eventually got together to address the issue and form the ASCII table.
 
-This was fine for a while until we realized we need to accommodate all the other languages like Arabic, Chinese, Hebrew, etc. We then realized we needed way more than 99 letters. So we did the simplest thing: we combined 2 bytes into the new standard.
+This was fine for a while until we realized we need to accommodate all the other languages like Arabic, Chinese, Hebrew, etc. We then realized we needed way more than 99 letters. So we did the simplest thing: we combined 2 bytes into the new standard. Guess what that's called.
+
+That's right, we made [[Unicode]]

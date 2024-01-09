@@ -10,6 +10,9 @@ Lecture contents will remain until end of semester. Then I will consolidate them
 [[Lecture 8 - PROG12583]]
 [[Lecture 9 - PROG12583]]
 [[Lecture 10 - PROG12583]]
+[[Lecture 12]]
+[[Lecture 13 - PROG12583]]
+[[Lecture 14 - PROG12583]]
 # Evaluation
 Follows the [[Sheridan College#50/50 rule|50/50 rule]]
 Evals:
