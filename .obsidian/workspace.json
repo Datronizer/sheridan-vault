@@ -8,41 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f835ccfd29ccd300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "17f0502453526cf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md",
+                "file": "Unicode.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "45b5f4a0eac7e537",
+            "id": "c5acd3541be0150e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20230918085535.png"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:datatype",
+                "query": "type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md",
+                "file": "Unicode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md",
+                "file": "Unicode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md"
+                "file": "Unicode.md"
               }
             }
           },
@@ -166,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -199,13 +186,34 @@
   },
   "active": "17f0502453526cf0",
   "lastOpenFiles": [
-    "semester-1/python-prog12583/Assignment/submission.py",
-    "semester-1/python-prog12583/Assignment/assignment_3_chien_truong.py",
-    "semester-1/python-prog12583/Assignment/assignment_2_chien_truong.py",
-    "semester-1/python-prog12583/Assignment/Assignment 4.py",
+    "semester-1/python-prog12583/Concepts/ASCII Table.md",
+    "Unicode.md",
+    "README.md",
+    "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md",
+    "semester-1/python-prog12583/Concepts/Simple Data Types.md",
+    "semester-1/canadian-history-hist19936g/Understanding Canadian History - HIST19936G.md",
+    "semester-1/computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
+    "semester-1/data-communications-tele13167/Introduction to Data Communications and Networking - TELE13167.md",
+    "semester-1/web-dev-syst10049/SYST10049 - Intro to Web Dev.md",
+    "semester-2/java-oop-prog23863/lectures/week-1/Lecture 1.md",
+    "semester-1/python-prog12583/Concepts/Memory Maps.md",
+    "semester-2/java-oop-prog23863/OOP with Java - PROG23863.md",
+    "semester-2/java-oop-prog23863/lectures/week-1",
+    "semester-2/java-oop-prog23863/lectures/New folder",
+    "semester-2/java-oop-prog23863/lectures",
+    "semester-2/java-oop-prog23863/concepts",
+    "semester-2/cloud-enabled-networking-tele20483/concepts",
+    "semester-2/cloud-enabled-networking-tele20483/assignments",
+    "semester-2/cloud-enabled-networking-tele20483/lectures",
+    "semester-2/java-oop-prog23863/assignments",
+    "semester-2/cloud-enabled-networking-tele20483/lectures/week 1/Cloud Computing Models.md",
+    "semester-2/java-oop-prog23863",
+    "semester-2/cloud-enabled-networking-tele20483/lectures/week 1/1) Cloud Models.pptx",
+    "Pasted image 20240108121716.png",
+    "Untitled.md",
+    "semester-2/cloud-enabled-networking-tele20483/Cloud Enabled Networking - TELE20483.md",
     "semester-1/python-prog12583/Lectures/Lecture 6 - PROG12583.md",
-    "semester-1/python-prog12583/Assignment/Untitled",
-    "semester-1/python-prog12583/Assignment",
     "semester-1/python-prog12583/Lectures/Lecture 7 - PROG12583.md",
     "semester-1/python-prog12583/Lectures/Lecture 8 - PROG12583.md",
     "semester-1/python-prog12583/Lectures/Lecture 10 - PROG12583.md",
@@ -215,36 +223,15 @@
     "semester-1/python-prog12583/Lectures/Lecture 4 - PROG12583.md",
     "semester-1/python-prog12583/Lectures/Lecture 5 - PROG12583.md",
     "semester-1/python-prog12583/Lectures/Lecture 12.md",
-    "semester-1/python-prog12583/Lectures/Lecture 13 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 14 - PROG12583.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 17 - MATH18784.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 15 - MATH18784.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 6 - MATH18584.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 4 - MATH18584.md",
     "Images/Pasted image 20230918085535.png",
-    "semester-1/computer-math-math18584/Lectures/Lecture 3 - MATH18584.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 8 - MATH18584.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
-    "semester-1/canadian-history-hist19936g/Lectures/Lecture 6.md",
-    "semester-1/canadian-history-hist19936g/Lectures/Lecture 5.md",
-    "semester-1/canadian-history-hist19936g/Lectures/Lecture 4.md",
-    "semester-1/canadian-history-hist19936g/Lectures/Lecture 9.md",
-    "internship-and-coop/profiling/holman/staff",
-    "internship-and-coop/profiling/holman",
-    "internship-and-coop/profiling",
-    "internship-and-coop",
     "unnamed (2).jpg",
     "Pasted image 20231113225952.png",
     "Untitled.canvas",
     "Pasted image 20231113230007.png",
     "Pasted image 20231113221033.png",
     "Pasted image 20231113221029.png",
-    "semester-1/data-communications-tele13167/Class Powerpoints/TELE13167 Notes Part 2 - Material on Final Exam.pptx",
     "semester-1/tech-comms-comm13729/Images/Pasted image 20230912134456.png",
     "semester-1/tech-comms-comm13729/Images/Pasted image 20230912142832.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912135400.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912124757.png"
+    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912135400.png"
   ]
 }

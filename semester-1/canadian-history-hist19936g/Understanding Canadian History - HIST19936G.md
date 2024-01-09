@@ -28,8 +28,12 @@ No late works accepted, extension needed way prior to deadline.
 
 Follows [[Sheridan College#50/50 rule|50/50 rule]]
 # Lectures
-[[Lecture 1]]
+[[semester-1/canadian-history-hist19936g/Lectures/Lecture 1|Lecture 1]]
 [[Lecture 2 - HIST]]
-[[semester-1/canadian-history-hist19936g/Lectures/Lecture 3]]
+[[semester-1/canadian-history-hist19936g/Lectures/Lecture 3|Lecture 3]]
 [[Lecture 4]]
 [[Lecture 5]]
+[[semester-1/canadian-history-hist19936g/Lectures/Lecture 6|Lecture 6]]
+[[semester-1/canadian-history-hist19936g/Lectures/Lecture 7|Lecture 7]]
+[[semester-1/canadian-history-hist19936g/Lectures/Lecture 9|Lecture 9]]
+[[semester-1/canadian-history-hist19936g/Lectures/Lecture 10|Lecture 10]]
