@@ -4,7 +4,7 @@ Holy shit boys we finally reach the third best chapter. Allow me to explain this
 
 What do I mean by that? Well, a dictionary is basically a list right? It is a list of entries! What's in those entries? Well we have a word - in programming this is called a **Key**; and we have a definition of that word - in programming this is called a **Value**. An entry in this case is called a **key-value pair**.
 
-> [!Important] Every key is unique! Don't name keys the same thing! 
+> [!Important] Every key is unique! 
 > It's like with a dictionary. Why would there be 2 identical words with identical forms (nouns/etc.) with identical pronunciations, but different meanings? It's better to have 1 word have multiple meanings underneath 1 section than multiple sections.
 
 Example:
