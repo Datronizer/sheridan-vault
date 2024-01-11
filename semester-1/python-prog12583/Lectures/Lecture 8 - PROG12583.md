@@ -34,7 +34,7 @@ quizGrades.insert(1, 11)         # quizGrades = [76, 55, 100, 92, 6, 55]
 
 For additional information, refer to Python documentations.
 
-# [[Memory Maps#Typecasting (type conversion)|Typecasting (type conversion)]]
+# [[Memory & Compiler Maps#Typecasting (type conversion)|Typecasting (type conversion)]]
 Suppose we have an `int i0 = 0x44` and a `short s0 = 0x1122`. We can fit it into a memory map like this.
 
 | Address | Byte | Variable |

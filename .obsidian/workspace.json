@@ -8,15 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5acd3541be0150e",
+            "id": "2c703407425c1c9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/java-oop-prog23863/concepts/Unicode.md",
+                "file": "semester-2/database-design-dbas27198/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "5c62f40f575c7507",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "type",
+                "query": "10^",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/java-oop-prog23863/concepts/Unicode.md",
+                "file": "semester-2/database-design-dbas27198/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/java-oop-prog23863/concepts/Unicode.md",
+                "file": "semester-2/database-design-dbas27198/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/java-oop-prog23863/concepts/Unicode.md"
+                "file": "semester-2/database-design-dbas27198/Lecture 1.md"
               }
             }
           },
@@ -176,15 +184,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27e772050fda05f3",
+  "active": "2c703407425c1c9f",
   "lastOpenFiles": [
+    "semester-2/database-design-dbas27198/Database Design & Implementation - DBAS27198.md",
+    "semester-2/database-design-dbas27198/Lecture 1.md",
+    "semester-2/politics-and-society-poli16367G/Understanding Politics and Society - POLI16367G.md",
+    "semester-2/database-design-dbas27198",
+    "semester-2/java-oop-prog23863/OOP with Java - PROG23863.md",
+    "semester-1/python-prog12583/Concepts/Floating-Point Numbers.md",
+    "semester-2/politics-and-society-poli16367G",
+    "semester-1/python-prog12583/Lectures/Lecture 3 - PROG12583.md",
+    "Scientific Notation.md",
+    "semester-1/python-prog12583/Lectures/Lecture 2 - PROG12583.md",
+    "semester-1/computer-math-math18584/Concepts/Decimals.md",
+    "semester-1/python-prog12583/Concepts/Memory & Compiler Maps.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
+    "semester-1/python-prog12583/Concepts/Integers.md",
+    "semester-1/python-prog12583/Concepts/Untitled",
     "semester-2/java-oop-prog23863/concepts/Unicode.md",
     "semester-2/java-oop-prog23863/concepts/Unicode.md",
     "README.md",
     "Untitled.md",
     "semester-2/java-oop-prog23863/lectures/week-1/helloWorld.java",
     "semester-2/java-oop-prog23863/lectures/week-1/Lecture 1.md",
-    "semester-2/java-oop-prog23863/OOP with Java - PROG23863.md",
     "semester-2/cloud-enabled-networking-tele20483/lectures/week 1/Cloud Computing Models.md",
     "semester-2/cloud-enabled-networking-tele20483/lectures/week 1/1) Cloud Models.pptx",
     "semester-2/cloud-enabled-networking-tele20483/lectures/week 1",
@@ -193,9 +215,6 @@
     "semester-2/cloud-enabled-networking-tele20483/Cloud Enabled Networking - TELE20483.md",
     "semester-1/python-prog12583/Lectures/Lectures.rar",
     "semester-1/python-prog12583/Assignment/assignment_2_chien_truong.py",
-    "semester-1/python-prog12583/Assignment/submission.py",
-    "semester-1/python-prog12583/Assignment/Assignment 4.py",
-    "semester-1/python-prog12583/Assignment/assignment_3_chien_truong.py",
     "Images/Pasted image 20240108121716 1.png",
     "Images/Pasted image 20231113221029.png",
     "Untitled.canvas",
@@ -206,17 +225,7 @@
     "semester-1/computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
     "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
     "semester-1/data-communications-tele13167/Introduction to Data Communications and Networking - TELE13167.md",
-    "semester-1/web-dev-syst10049/SYST10049 - Intro to Web Dev.md",
-    "semester-1/python-prog12583/Concepts/Memory Maps.md",
     "Images/Pasted image 20240108121716.png",
-    "semester-1/python-prog12583/Lectures/Lecture 6 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 7 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 8 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 10 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 9 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 2 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 3 - PROG12583.md",
-    "semester-1/python-prog12583/Lectures/Lecture 4 - PROG12583.md",
     "Images/Pasted image 20230918085535.png",
     "Images/unnamed (2).jpg",
     "Images/Pasted image 20231113225952.png",

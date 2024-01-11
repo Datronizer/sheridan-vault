@@ -32,4 +32,4 @@ public static void main(String[] args)
 }
 ```
 
-As you can see, unlike Python, Java is [[strongly typed]]--meaning variable types must be properly defined. There is a historical reason for this of course. A reason that we have previously discussed in [[Memory Maps]] by professor Zaki Asmat.
+As you can see, unlike Python, Java is [[strongly typed]]--meaning variable types must be properly defined. There is a historical reason for this of course. A reason that we have previously discussed in [[Memory & Compiler Maps]] by professor Zaki Asmat.

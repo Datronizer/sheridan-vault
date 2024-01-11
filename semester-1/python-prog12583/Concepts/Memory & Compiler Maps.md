@@ -18,42 +18,65 @@ Say we have 3 variables:
 - type of data = byte | var name = b0 | value = 78 | byte# = 1 (duh, it's a byte)
 - type of data = int | var name = i0 | value = 88990011 | byte# = 4
 
-| Address | Byte | Var     |
-| ------- | ---- | ------- |
-| 0       | 12   | s0      |
-| 1       | 34   | s0      |
-| 2       | 00   | "break" |
-| 3       | 88   | i0      |
-| 4       | 99   |         |
-| 5       | 00   |         |
-| 6       | 11   |         |
-| 7       | 00   | "break" |
-| 8       | 78   | b0      |
-| 9       | 00   |         |
-| etc.    | ...  | ...     |
+| Address | Byte | Var |
+| ---- | ---- | ---- |
+| 0 | 12 | s0 |
+| 1 | 34 | s0 |
+| 2 | 00 |  |
+| 3 | 88 | i0 |
+| 4 | 99 |  |
+| 5 | 00 |  |
+| 6 | 11 |  |
+| 7 | 78 | b0 |
+| 8 | 00 |  |
+| etc. | ... | ... |
 
 Python allocates some memory for your variables **based on their data types**. When you declare a variable in other languages, you must also declare a type so that the interpreter/compiler can allocate room in its memory. A `00` with **no variables** denotes a break, meaning whatever after it is a new variable.
 
 Often times, it, as well as us, overshoot the allocation and waste memory. Compare a `short` of value `55` and an `int` of value `55`. The `short` will just have 1 address of size 1 chomp. The `int` would have a size of 4 chomps because it needs to allocate extra room as `00 00 00 55`. This wastes a ton of memory.
 ## Stop sign
 A stop sign is a byte that signifies a "stop" of an object(?) currently being stored in the memory. One way to look at it is to see it is to imagine textbooks being stored as only unordered pages. How do we know where one book ends and the other begins? We need a divider that splits these pages and a "label" after the dividers to clarify which pages belong to which book.
+# Compiler maps
+After a program has been created, we should compile it and send that compiled package to a microprocessor so it can do its job. How does that work?
+
+Well, let's look at the following example! The following are some provided variables. 
+- byte b0 = 0x44
+- int i0     = 0x33445566
+- short s0 = 0x8899
+
+Thus, this is the memory map
+
+| Address | Byte | Var |
+| ---- | ---- | ---- |
+| 0 | 44 | b0 |
+| 1 | 33 | i0 |
+| 2 | 44 |  |
+| 3 | 55 |  |
+| 4 | 66 |  |
+| 5 | 88 | s0 |
+| 6 | 99 |  |
+And this is the corresponding compiler map
+
+| Variable | Address | # bytes | Value (hex) |
+| ---- | ---- | ---- | ---- |
+| b0 | 0 | 1 | 44 |
+| i0 | 1 | 4 | 33445566 |
+| s0 | 5 | 2 | 8899 |
+As you can see, upon compiling, the system automatically maps all variables to a specific address for easy access. Now when the software runs, it can refer to the compiler table for the addresses, then access the variables in the memory map using those address! It's a cycle that happens at literally light speed.
 # Typecasting (type conversion)
 Suppose we have an `int i0 = 0x44` and a `short s0 = 0x1122`. We can fit it into a memory map like this.
 
 | Address | Byte | Variable |
-| ------- | ---- | -------- |
-| 0       | 00   | i0       |
-| 1       | 00   |          |
-| 2       | 00   |          |
-| 3       | 44   |          |
-| ------- | ---- | -------- |
-| 4       | 11   | s0       |
-| 5       | 22   |          |
-| ------- | ---- | -------- |
-| 6       |      |          |
-| 7       |      |          |
-|         |      |          |
-
+| ---- | ---- | ---- |
+| 0 | 00 | i0 |
+| 1 | 00 |  |
+| 2 | 00 |  |
+| 3 | 44 |  |
+| 4 | 11 | s0 |
+| 5 | 22 |  |
+| 6 |  |  |
+| 7 |  |  |
+|  |  |  |
 Now let's consider something. Since `i0` has 4 bytes, is it possible to convert `i0` into a `short` of 2 bytes? In all technical sense, yes you could, but you shouldn't at all. Here's why
 
 Think of an `int` as a massive bucket, a `short` being a shot glass. If I pour the entire bucket into the shot glass, there is literally zero way in hell all that water goes into a `short` without overfilling. This overfilling is a loss of data. This is why Python usually prevents you from doing this. You SHOULD NOT convert between data types unless extremely necessary. And if you have to, you should use a built in method instead.

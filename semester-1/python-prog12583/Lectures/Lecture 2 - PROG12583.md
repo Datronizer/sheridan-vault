@@ -7,7 +7,7 @@ A few popular ones are [Visual Studio Code (VS Code)](https://code.visualstudio.
 If we recall from last time, there are [[Lecture 1 - PROG12583#Arithmetic operators|6 operators]] in Python. But what if we need to find a symbol or operator that isn't there? Like how do I print the value of π? How do I do square root? The answer to these questions is using a library!
 
 A library is basically what you think it is. It is a collection of methods, specifically designed to run in machine language (as opposed to interpreter language), thus ensuring optimal performance as if it was a native method.
-# [[Memory Maps|Memory Map (memmap)]] 
+# [[Memory & Compiler Maps|Memory Map (memmap)]] 
 ## Memory limitations
 Try punching $69!$ into your calculator, now do $70!$. You'll soon see that this is not possible. The reason for this is because calculators run on buses and memory chips. These chips have a limit to how much they can store/compute. The current limit right now is $10^99$, but that is hugeeeee compared to the first calculators: 99. Yes, only 99, less than 100. We call this a **chomp** because, you know, chomp (this is also placeholder numbers, it's technically FF = 256, not 99. It's also a "byte". But this example is easier to grasp).
 
