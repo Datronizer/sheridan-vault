@@ -1,4 +1,4 @@
-Let's say I have some arbitrary number. Let's say the number is 5678. How many ways can I express this number?
+ Let's say I have some arbitrary number. Let's say the number is 5678. How many ways can I express this number?
 
 Well I can do
 $$
@@ -12,6 +12,6 @@ $$
 \end{align}
 $$
 and these would all be equivalent. As you can see, all these numbers can be represented using 3 parts:
-- A decimal with a decimal point that "floats" around (significand)
+- A decimal with a decimal point that "floats" around (significand/mantissa)
 - A base of 10 (base)
 - An exponent of 10 (exponent)

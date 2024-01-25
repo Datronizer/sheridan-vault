@@ -40,6 +40,27 @@ Oh boy, "logic", don't that sound familiar? Yes it is. We talked about this in g
 - `||` (OR)
 - `!` (NOT)
 - `^` (NOR)
+## Ternary operator
+Oh man, how badly do you want to fuck your code up? Because I got you.
+
+There is a shortcut to if-statements that you could do. Suppose I have the following:
+```
+if ( 1 + 1 > 3 )
+{
+	System.out.println("1 + 1 > 3 since when?");
+}
+else 
+{
+	System.out.println("1 + 1 is not greater than 3");
+}
+```
+
+I can change that to a shorthand 
+```
+String statement = ( 1 + 1 > 3 ) ? "1 + 1 > 3 since when?" : "1 + 1 is not greater than 3"
+
+System.out.println(statement)    // "1 + 1 is not greater than 3"
+```
 # Else-if
 Insert YandereSim or Undertale if-else nightmare stack here.
 

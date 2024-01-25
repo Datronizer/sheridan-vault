@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-2/database-design-dbas27198/Lecture 1.md",
+                "file": "concepts/math/Operators (Math).md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -26,8 +27,33 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "a77433d5c57beb48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "concepts/compsci/Logic Gates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87212b10a81e4958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -56,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "10^",
+                "query": "mantissa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-2/database-design-dbas27198/Lecture 1.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-2/database-design-dbas27198/Lecture 1.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-2/database-design-dbas27198/Lecture 1.md"
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md"
               }
             }
           },
@@ -184,54 +210,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c703407425c1c9f",
+  "active": "87212b10a81e4958",
   "lastOpenFiles": [
-    "semester-2/database-design-dbas27198/Database Design & Implementation - DBAS27198.md",
-    "semester-2/database-design-dbas27198/Lecture 1.md",
-    "semester-2/politics-and-society-poli16367G/Understanding Politics and Society - POLI16367G.md",
-    "semester-2/database-design-dbas27198",
-    "semester-2/java-oop-prog23863/OOP with Java - PROG23863.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 6 - MATH18584.md",
+    "concepts/compsci/Logic Gates.md",
+    "Images/Pasted image 20230925081911.png",
+    "concepts/math/Scientific Notation.md",
+    "concepts/math/Operators (Math).md",
+    "concepts/compsci/other",
+    "concepts/compsci/hardware",
+    "concepts/compsci/software",
+    "semester-1/computer-math-math18584/Concepts/Boolean Algebra.md",
+    "Dictionaries.md",
     "semester-1/python-prog12583/Concepts/Floating-Point Numbers.md",
-    "semester-2/politics-and-society-poli16367G",
-    "semester-1/python-prog12583/Lectures/Lecture 3 - PROG12583.md",
-    "Scientific Notation.md",
-    "semester-1/python-prog12583/Lectures/Lecture 2 - PROG12583.md",
-    "semester-1/computer-math-math18584/Concepts/Decimals.md",
-    "semester-1/python-prog12583/Concepts/Memory & Compiler Maps.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 1 - MATH18584.md",
-    "semester-1/python-prog12583/Concepts/Integers.md",
-    "semester-1/python-prog12583/Concepts/Untitled",
-    "semester-2/java-oop-prog23863/concepts/Unicode.md",
-    "semester-2/java-oop-prog23863/concepts/Unicode.md",
+    "concepts/compsci/path.md",
+    "concepts/compsci/Operators (CS).md",
     "README.md",
+    "concepts/compsci/Loops.md",
+    "concepts/compsci/type qualifiers.md",
+    "concepts/compsci/refactoring.md",
+    "concepts/math",
+    "semester-2/web-programming/Lecture 3.md",
+    "concepts/compsci",
+    "concepts",
+    "Textbooks/Book list.md",
+    "semester-2/web-programming/secretDoNotCommit.md",
     "Untitled.md",
-    "semester-2/java-oop-prog23863/lectures/week-1/helloWorld.java",
-    "semester-2/java-oop-prog23863/lectures/week-1/Lecture 1.md",
-    "semester-2/cloud-enabled-networking-tele20483/lectures/week 1/Cloud Computing Models.md",
-    "semester-2/cloud-enabled-networking-tele20483/lectures/week 1/1) Cloud Models.pptx",
-    "semester-2/cloud-enabled-networking-tele20483/lectures/week 1",
-    "semester-2/cloud-enabled-networking-tele20483/lectures",
-    "semester-2/cloud-enabled-networking-tele20483/TELE20483 Class Plan for Monday Class Winter 2024.docx",
-    "semester-2/cloud-enabled-networking-tele20483/Cloud Enabled Networking - TELE20483.md",
-    "semester-1/python-prog12583/Lectures/Lectures.rar",
-    "semester-1/python-prog12583/Assignment/assignment_2_chien_truong.py",
-    "Images/Pasted image 20240108121716 1.png",
-    "Images/Pasted image 20231113221029.png",
-    "Untitled.canvas",
-    "semester-1/python-prog12583/Concepts/ASCII Table.md",
-    "semester-1/python-prog12583/PROG12583 - Programming Foundations - Python.md",
-    "semester-1/python-prog12583/Concepts/Simple Data Types.md",
-    "semester-1/canadian-history-hist19936g/Understanding Canadian History - HIST19936G.md",
-    "semester-1/computer-math-math18584/MATH18584 - Computer Math Fundamentals.md",
-    "semester-1/computer-math-math18584/Lectures/Lecture 18 - MATH18784.md",
-    "semester-1/data-communications-tele13167/Introduction to Data Communications and Networking - TELE13167.md",
-    "Images/Pasted image 20240108121716.png",
-    "Images/Pasted image 20230918085535.png",
+    "semester-2/database-design-dbas27198/Lecture 3.md",
+    "semester-2/web-programming",
+    "semester-2/database-design-dbas27198/Database Design & Implementation - DBAS27198.md",
+    "troubleshooting/linux/Slow boot (90s wait during boot).md",
+    "troubleshooting/macos",
+    "troubleshooting/windows",
+    "troubleshooting/aws",
+    "semester-2/java-oop-prog23863/concepts/Loops.md",
+    "semester-2/java-oop-prog23863/concepts/Conditionals (if-else).md",
+    "semester-2/java-oop-prog23863/concepts/Control blocks.md",
+    "semester-2/java-oop-prog23863/concepts/Lazy Evaluations.md",
+    "semester-1/data-communications-tele13167/Class Powerpoints/README.md",
     "Images/unnamed (2).jpg",
-    "Images/Pasted image 20231113225952.png",
+    "Images/Pasted image 20240108121716.png",
+    "Images/Pasted image 20240108121716 1.png",
     "Images/Pasted image 20231113230007.png",
+    "Images/Pasted image 20231113225952.png",
     "Images/Pasted image 20231113221033.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912134456.png",
-    "semester-1/tech-comms-comm13729/Images/Pasted image 20230912142832.png"
+    "Images/Pasted image 20231113221029.png",
+    "unnamed (2).jpg",
+    "Untitled.canvas",
+    "Pasted image 20240108121716.png"
   ]
 }

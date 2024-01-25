@@ -19,7 +19,7 @@ Nowadays, we don't have to worry too much about these questions.
 
 How do we denote real numbers in computer language. Well, one way is to return all these numbers to a common form. Take $3.14$ for example. How do we notate this in [[Memory & Compiler Maps]]?
 
-We can do what is colloquially known as "numeric gymnastics", specifically, we convert the decimal number into [[scientific notation]].
+We can do what is colloquially known as "numeric gymnastics", specifically, we convert the decimal number into [[Scientific Notation]].
 
 Well we know $3.14 * 10^2 = 314\equiv 314 * 10^-2 = 3.14$ so we can denote it in this way and store that into the memory for ease of use. Why? Well computers only store things in terms of bytes. The only way we can satisfy this condition is to convert everything to bytes (we split them wherever necessary and give them "lookup values").
 
