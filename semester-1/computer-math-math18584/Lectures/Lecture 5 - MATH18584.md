@@ -1,4 +1,4 @@
-# Truth tables
+tem# Truth tables
 ## Generate truth tables from functions
 [[Lecture 4 - MATH18584|Last time]] we talked about some [[Boolean Algebra]] and how we can manipulate our variables using [[Boolean Algebra#Boolean Algebra Laws and Theorems|laws and theorems]]. Today we're talking about Truth Tables--a powerful tool that helps us extract logic values.
 
