@@ -24,8 +24,12 @@
             "id": "5c62f40f575c7507",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "concepts/compsci/Simple Data Types.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -34,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/compsci/Logic Gates.md",
+                "file": "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+                "file": "semester-2/Lecture 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+                "file": "semester-2/Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+                "file": "semester-2/Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md"
+                "file": "semester-2/Lecture 3.md"
               }
             }
           },
@@ -191,13 +195,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,42 +214,43 @@
   },
   "active": "87212b10a81e4958",
   "lastOpenFiles": [
-    "semester-1/computer-math-math18584/Lectures/Lecture 6 - MATH18584.md",
-    "concepts/compsci/Logic Gates.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 5 - MATH18584.md",
+    "semester-2/Lecture 3.md",
+    "concepts/math/Binary.md",
+    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/Webpage.md",
+    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/Hypertext Markup Language.md",
+    "semester-1/web-dev-syst10049/Concepts/Webpage & Components/CSS.md",
+    "concepts/compsci/Integers.md",
+    "concepts/compsci/Simple Data Types.md",
+    "concepts/compsci/Floating-Point Numbers.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 12 - MATH18784.md",
+    "concepts/compsci/major-concepts",
+    "concepts/compsci/languages",
+    "concepts/compsci/ASCII Table.md",
+    "concepts/compsci/Intermediate Datatypes.md",
+    "concepts/compsci/Memory & Compiler Maps.md",
+    "concepts/compsci/languages/Python.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 11 - MATH18584.md",
+    "concepts/math/Placevalues.md",
+    "concepts/math/Matrix.md",
+    "README.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 10 - MATH18584.md",
+    "semester-1/computer-math-math18584/Lectures/Lecture 13 - MATH18784.md",
+    "concepts/math/Modulo.md",
+    "semester-2/web-programming/Lecture 3.md",
+    "concepts/compsci/Type qualifiers.md",
+    "concepts/compsci/Refactoring.md",
+    "concepts/compsci/path.md",
+    "concepts/compsci/Loops.md",
     "Images/Pasted image 20230925081911.png",
-    "concepts/math/Scientific Notation.md",
-    "concepts/math/Operators (Math).md",
     "concepts/compsci/other",
     "concepts/compsci/hardware",
     "concepts/compsci/software",
-    "semester-1/computer-math-math18584/Concepts/Boolean Algebra.md",
-    "Dictionaries.md",
-    "semester-1/python-prog12583/Concepts/Floating-Point Numbers.md",
-    "concepts/compsci/path.md",
-    "concepts/compsci/Operators (CS).md",
-    "README.md",
-    "concepts/compsci/Loops.md",
-    "concepts/compsci/type qualifiers.md",
-    "concepts/compsci/refactoring.md",
     "concepts/math",
-    "semester-2/web-programming/Lecture 3.md",
     "concepts/compsci",
     "concepts",
-    "Textbooks/Book list.md",
-    "semester-2/web-programming/secretDoNotCommit.md",
-    "Untitled.md",
-    "semester-2/database-design-dbas27198/Lecture 3.md",
     "semester-2/web-programming",
-    "semester-2/database-design-dbas27198/Database Design & Implementation - DBAS27198.md",
-    "troubleshooting/linux/Slow boot (90s wait during boot).md",
     "troubleshooting/macos",
-    "troubleshooting/windows",
-    "troubleshooting/aws",
-    "semester-2/java-oop-prog23863/concepts/Loops.md",
-    "semester-2/java-oop-prog23863/concepts/Conditionals (if-else).md",
-    "semester-2/java-oop-prog23863/concepts/Control blocks.md",
-    "semester-2/java-oop-prog23863/concepts/Lazy Evaluations.md",
-    "semester-1/data-communications-tele13167/Class Powerpoints/README.md",
     "Images/unnamed (2).jpg",
     "Images/Pasted image 20240108121716.png",
     "Images/Pasted image 20240108121716 1.png",
