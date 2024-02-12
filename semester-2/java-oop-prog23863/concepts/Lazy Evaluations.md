@@ -1,6 +1,6 @@
 # Lazy evaluations
 ## In laypeople's terms
-In Java, statements are lazily evaluated (not always). What does this mean? 
+In Java (and some other languages), statements are lazily evaluated (not always). What does this mean? 
 
 Say you're at home watching TV and mom told you to wash the dishes by the time she gets home. Now there are 2 ways around this.
 1. You wash the dishes as soon as the command is issued
