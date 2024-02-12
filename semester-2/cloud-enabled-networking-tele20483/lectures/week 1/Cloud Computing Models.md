@@ -80,4 +80,4 @@ Used for applications that need a lot of bandwidth.
 ## Horizontal scaling
 Web servers will use horizontal scaling because they don't need bandwidth, they need instances instead. Think microservices. You don't need a "bigger" CPU, you just need more instances to independently process requests.
 
-AWS can usually do auto-scaling for your use case. They don't automatically vertically scale your server though. That has to be done manually.
+AWS can usually do auto-scaling for your use case. They don't automatically vertically scale your server though. That has to be done manually, because

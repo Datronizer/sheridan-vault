@@ -2,7 +2,7 @@ Alright Einstein, guess why $12.778$ is a floating point number.
 
 You guessed it! It's because the radix point "floats"! Let's talk about that.
 
-We start with a question: how do we denote real numbers in computer language? One way is to return all these numbers to a common form. Take $3.14$ for example. How do we notate this in [[memory & compiler maps]]?
+We start with a question: how do we denote real numbers in computer language? One way is to return all these numbers to a common form. Take $3.14$ for example. How do we notate this in [[Memory & Compiler Maps]]?
 
 We can do what is colloquially known as "numeric gymnastics", specifically, we convert the decimal number into [[Scientific Notation]], then store its constituents in memory maps.
 ## Storage

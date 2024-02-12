@@ -7,7 +7,7 @@ ANDing is exactly what it sounds like. Yessir, we perform an [[Boolean Algebra#B
 | SM     | 255 | 255 | 252 | 0   |
 | Answer | 179 | 34  | x   | 0   |
 
-We compute the easiest ones first: 255 is all 1s in [[binary]] and 0 is all 0s. So ANDing/multiplying them should yield itself or zero. The x right there can be computed using the table method to get the binary value => decimal. Here's how:
+We compute the easiest ones first: 255 is all 1s in [[Binary]] and 0 is all 0s. So ANDing/multiplying them should yield itself or zero. The x right there can be computed using the table method to get the binary value => decimal. Here's how:
 1. Find block size.
 2. Divide IP with block size using the [[method]] to get the right binary expansion.
 3. Convert binary expansion back to decimals.

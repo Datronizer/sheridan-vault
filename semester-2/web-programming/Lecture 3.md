@@ -22,7 +22,7 @@ To add JS into your HTML, add a `<script>` tag to your `<head>`, for example:
 
 Within this tab, you can place JS functions, classes, methods, etc. Ideally you should keep classes separate in `.js` files rather than in here. Better to keep functions here only. More on this later.
 ### Import
-As mentioned earlier, you can split your JS classes and functions into their respective folder, whether it be for [[refactoring]] or for personal reasons. To do so, create a file ending with `.js`, for example, `myScript.js`. 
+As mentioned earlier, you can split your JS classes and functions into their respective folder, whether it be for [[Refactoring]] or for personal reasons. To do so, create a file ending with `.js`, for example, `myScript.js`. 
 
 Now we can import this through one of two ways.
 - Through relative path
@@ -59,4 +59,10 @@ document.write("Age in 5 years" + z);
 ```
 
 ### Declarations
-Unlike other languages, JS does not require declaring [[simple data types]], but we do have to declare whether the variable is `const`, `var`, or `let` a.k.a. [[type qualifiers]].
+Unlike other languages, JS does not require declaring [[Simple Data Types]], but we do have to declare whether the variable is `const`, `var`, or `let` a.k.a. [[Type qualifiers]].
+# Debugging
+To debug JS, add `debugger` to the line of code you wish to start the debugging. Then go straight to the browser, and hit F12 to inspect elements. If you've done everything right, the browser should automatically pause loading at the debugger line. 
+
+Now you can do debugging as you would in VSCode.
+
+Don't forget to delete the `debugger` line after you're done debugging. Trust me.
