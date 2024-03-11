@@ -9,7 +9,7 @@ This domain of course owns a public IPv4 address block (142.55.0.0/16 for Sherid
 ## Routing knowledge propagates
 Yes, propagates. It's because when devices communicate, they tell each other who they're connected to in order to route a message from A to B. Of course this means that every time A talks to C, C tells A how to get to B and A tells C how to get to A. So C should know both A and B. 
 
-Recall how the switch and router works. And recall [[routing tables]]. The switch would broadcast to everyone, but the router would know where it needs to send data already so it would drop the package by default. This is to prevent a [[routing loop]]. 
+Recall how the switch and router works. And recall [[Routing-Forwarding Tables]]. The switch would broadcast to everyone, but the router would know where it needs to send data already so it would drop the package by default. This is to prevent a [[routing loop]]. 
 
 There's also a forwarding table. Routers can use AS numbers to find the shortest (?) and least likely to repeat loop
 

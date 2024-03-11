@@ -1,5 +1,4 @@
 # Evaluation
-Follows the [[Sheridan College#50/50 rule|50/50 rule]]
 Evaluation plan:
 - In-class exercises 10 * 1 = 10%
 - Assignments (4 * 5%) = 20%
@@ -14,8 +13,8 @@ Refer to the <a href="https://slate.sheridancollege.ca/d2l/le/content/1136444/vi
 [[Lecture 1 - MATH18584]]
 [[Lecture 2 - MATH18584]]
 [[Lecture 3 - MATH18584]]
-[[Lecture 4 - MATH18584]]
-[[Lecture 5 - MATH18584]]
+Done
+Done
 [[Lecture 6 - MATH18584]]
 [[Lecture 8 - MATH18584]]
 [[Lecture 9 - MATH18584]]
@@ -26,3 +25,16 @@ Refer to the <a href="https://slate.sheridancollege.ca/d2l/le/content/1136444/vi
 # Assignments
 [[Assignment 2 - Chien Truong]]
 [[Assignment 3 - Chien Truong]]
+
+# Concepts covered
+[[Boolean Algebra]]
+[[Counting numbers]]
+[[Decimals]]
+[[Functions (Math)]]
+[[Matrix]]
+[[Modular Arithmetic]]
+[[Modulo]]
+[[Number Conversions]]
+[[Operators (Math)]]
+[[Placevalues]]
+[[Scientific Notation]]

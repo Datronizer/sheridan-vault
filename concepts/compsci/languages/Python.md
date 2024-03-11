@@ -7,7 +7,7 @@ You can convert most fundamental types into string by using `str()`. Example, `1
 
 A string is denoted by a pair of quote marks. Example: `"Hello world!"` is a string but `Hello world!` is an error. This is just to help the compiler in the Python language understand "when" and "where" a string begins and ends. Anything else that's not a string is automatically a code or other types.
 ## Numbers
-We already know what numbers are, it's in our everyday life! We use it so often we tend to forget what it really means. For a computer, it's essential you know what it means to ensure correct code. Most of the time, for general uses, the interpreter accepts [[Decimals|decimal numbers]] as it converts everything back to [[Binary|binary]] anyways. There are a few types of numbers in Python:
+We already know what numbers are, it's in our everyday life! We use it so often we tend to forget what it really means. For a computer, it's essential you know what it means to ensure correct code. Most of the time, for general uses, the interpreter accepts [[concepts/math/Decimals|decimal numbers]] as it converts everything back to [[concepts/math/Binary|binary]] anyways. There are a few types of numbers in Python:
 ### Integers (`int`)
 Integers are what the name suggests. They are whole numbers, ranging from negative 2.4 million to positive 2.4 million (refer to [[#Quirks|Python quirks]] for explanation). 
 ### Floats (`float`)
@@ -66,3 +66,41 @@ ERROR!
 If we recall from last time, there are [[Lecture 1 - PROG12583#Arithmetic operators|6 operators]] in Python. But what if we need to find a symbol or operator that isn't there? Like how do I print the value of π? How do I do square root? The answer to these questions is using a library!
 
 A library is basically what you think it is. It is a collection of methods, specifically designed to run in machine language (as opposed to interpreter language), thus ensuring optimal performance as if it was a native method.
+# Python loops
+## `for` loops
+As we progress further into Python, we will require some new tools in order to aid our programming. We have recently dealt with `if-else` conditionals. Now, what if we want to check the conditionals of ALL elements within a list, or to print all numbers in increments of 4? Our repertoire is insufficient for this task! It is here where we will need a `for` loop.
+
+`for` iterates over a list or a range of values until it reaches the end. Then it stops.
+```
+# Range iteration:
+for i in range(0,5):
+	print(i, end=" ")
+
+>> 0, 1, 2, 3, 4
+
+
+# List iteration:
+for i in [12, 24, 36, 48, 60]:
+	print(i, end=" ")
+
+>> 12, 24, 36, 48, 60	
+```
+## `while` loops
+`while` loops are the first loops to have been invented for computer science. It works by looping everything nested within it as long as the while condition still satisfies. 
+
+This means if you want a `while` loop to run forever, just give it a statement that is always true, for example: the Boolean value `True` itself.
+```
+# Simple while loop until value reaches 5:
+i = 0
+while i < 5:
+	i++
+	print(i)
+
+>> 1, 2, 3, 4, 5
+
+# Infinite loop:
+while True:
+	i++
+
+>> StackOverflowError
+```

@@ -1,6 +1,6 @@
 We often count numbers, but we never really stopped to consider why we do certain things. Like, have you ever stopped to question how/why the ones column resets to 0 whenever it hits 9? It's a very fundamental thing that we have internalized. Now it's time to externalize it and apply that to other number systems.
 # Counting decimals
-Decimal numbers start off easy, you start from 0, 1, 2,..., to 9. But when you hit 9, the ones [[Placevalues|placevalue]] cannot go any higher, so 9 resets to 0, and 1 is added to the tens column.
+Decimal numbers start off easy, you start from 0, 1, 2,..., to 9. But when you hit 9, the ones [[concepts/math/Placevalues|placevalue]] cannot go any higher, so 9 resets to 0, and 1 is added to the tens column.
 
 As you hit 19, this occurs again. 9 loops back to 0, and 1 gets added to the tens place and 1+1=2. So this becomes 20.
 
@@ -15,4 +15,4 @@ Do this again. 10 + 1 = 11 => 11 + 1 = 12. 2 is an overflow of 0, 1 so 2 becomes
 # Counting hexadecimals
 Same things with hexadecimals btw, but I'm too lazy to write them all out. Refer to [this link](https://www.tutorialspoint.com/computer_logical_organization/hexadecimal_arithmetic.htm).
 # Conclusion
-We see that as we hit the limit of a column, the max permutations within that limit is always the same as the power of the [[Placevalues|placevalue]] of the limit you're trying to reach.
+We see that as we hit the limit of a column, the max permutations within that limit is always the same as the power of the [[concepts/math/Placevalues|placevalue]] of the limit you're trying to reach.

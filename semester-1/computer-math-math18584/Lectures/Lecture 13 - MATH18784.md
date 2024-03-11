@@ -29,7 +29,7 @@ This is directly from the [[#Definition|definition of a function]].
 [[#^4]] This is funny because the square root equations $y = \pm\sqrt{x}$ are individually functions. But that kinda makes sense because you're splitting the original equation, which is in terms of $y$, into 2 functions in terms of $x$.
 
 ## Domain and Range
-A domain is, formally, a set of all possible x-values of a function. A range is a set of all possible y-values of a function. (This is not entirely accurate, please refer to [[Functions]] for additional information.)
+A domain is, formally, a set of all possible x-values of a function. A range is a set of all possible y-values of a function. (This is not entirely accurate, please refer to [[Functions (Math)]] for additional information.)
 
 Consider the following relation:
 $\{(1,2), (0,3), (-1,5), (2,3)\}$
