@@ -25,8 +25,6 @@ These books are free in the online library. You just have to read them. Accessib
 	- Proper citations
 	- 
 No late works accepted, extension needed way prior to deadline.
-
-Follows [[Sheridan College#50/50 rule|50/50 rule]]
 # Lectures
 [[semester-1/canadian-history-hist19936g/Lectures/Lecture 1|Lecture 1]]
 [[Lecture 2 - HIST]]

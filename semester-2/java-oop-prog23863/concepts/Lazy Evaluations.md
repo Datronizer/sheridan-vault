@@ -33,7 +33,7 @@ If you're looking for a tl;dr of how it works, I will explain it.
 	- `func1() { return true }`
 	- `func2() { return false }`
 	- `func3() { return true }`
-- Suppose those 3 are like super complex functions that take hours to solve for each one, but we know what it returns.
+- Suppose those 3 are like super complex [[Functions (Computer Science)|functions]] that take hours to solve for each one, but we know what it returns.
 - Then this expression `System.out.println(func1() || !(func2() || func3()))` will be evaluated as such:
 	- Java solves `func1()` and gets `true`.
 	- Java sees an `OR` operator (`||`)

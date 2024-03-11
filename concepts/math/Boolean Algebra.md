@@ -63,16 +63,16 @@ Let P be a true statement and Q be something ambiguous. We can formulate a simpl
 - Q: This is math class
 Then, we can say, A * B is Today is Monday AND this is math class. A -> B: Today is monday, which implies this is math class (assume I only 1 class on monday and that being math), etc.
 
-
-
 Whether this is [[Cyclic groups|cyclic]] or [[Hausdorff]] is unclear because I need my textbook, but I believe it does, since those are the properties of the group $\mathbb{Z}$, just "spoken in a different language". It is not necessarily a ring since the values do not loop through a function (unless mapped through a $\mathbb{Z}_2$ space through [[Modulo]], but this may not be correct.)
 
-Example: $$
+Example: 
+$$
 \begin{align}
 17 + 25 &= 42 \\
 10001 + 11001 &= 101010
 \end{align}
 $$
+# Truth tables
 # In terms of Abstract Math
 In the realm of abstract math, it can be hard to determine the characteristics of Boolean Algebra, but we can draw some conclusions on what they are. For example, from the laws and theorems of abstract math, we see that they are at least associative. We know that Booleans are associative, transitive, and commutative. This makes sense as this is an equivalence relation. Here are some information I extracted. Warning, it may not be comprehensive:
 ## [[Group]]

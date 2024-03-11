@@ -1,3 +1,4 @@
+[[0. Before you do anything]]
 # Grade weight
 Quizzes : 20% (4 quizzes @ 5 each)
 Assigments : 20% (4 asgnmts @ 5 each)
@@ -19,5 +20,9 @@ The practical/hands-on exam is open book and open notes. You will be completing 
 
 The contents for the final exam are cumulative. In other words, study **everything**. This applies to both the theory and hands-on part.
 
-Sheridan has recently implemented the [[Sheridan College#50/50 rule|50/50 rule]] for this course. Nikolai says he has no idea why. I believe him lol.
-
+Please refer to the [[cheat sheet]] if you forget what certain commands do
+# Lectures
+[[semester-2/os-and-linux-syst15123/Lecture 1|Lecture 1]]
+[[semester-2/os-and-linux-syst15123/Lecture 3|Lecture 3]]
+[[semester-2/os-and-linux-syst15123/Lecture 4|Lecture 4]]
+[[semester-2/os-and-linux-syst15123/Lecture 5|Lecture 5]]

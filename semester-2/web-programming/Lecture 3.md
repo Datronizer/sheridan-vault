@@ -20,7 +20,7 @@ To add JS into your HTML, add a `<script>` tag to your `<head>`, for example:
 </html>
 ```
 
-Within this tab, you can place JS functions, classes, methods, etc. Ideally you should keep classes separate in `.js` files rather than in here. Better to keep functions here only. More on this later.
+Within this tab, you can place JS functions %% Link this to a `function` header rather than article %%, classes, methods, etc. Ideally you should keep classes separate in `.js` files rather than in here. Better to keep functions here only. More on this later.
 ### Import
 As mentioned earlier, you can split your JS classes and functions into their respective folder, whether it be for [[Refactoring]] or for personal reasons. To do so, create a file ending with `.js`, for example, `myScript.js`. 
 
@@ -44,7 +44,7 @@ Of course sometimes you want to display some information to the user or other de
 	- To access the console, hit `Inspect element` or hit F12.
 
 ## Loop
-Like other languages, JS has a [[concepts/compsci/Loops#`for` loop|for loop]] and a [[concepts/compsci/Loops#`while` loop|while loop]]. But what you're probably not expecting is that it also has a [[concepts/compsci/Loops#`do-while` loop|do-while loop]]. Example:
+Like other languages, JS has a [[concepts/compsci/middle-level/Loops#`for` loop|for loop]] and a [[concepts/compsci/middle-level/Loops#`while` loop|while loop]]. But what you're probably not expecting is that it also has a [[concepts/compsci/middle-level/Loops#`do-while` loop|do-while loop]]. Example:
 
 ```
 let x, y, z; 

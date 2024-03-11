@@ -14,10 +14,18 @@ Lecture contents will remain until end of semester. Then I will consolidate them
 [[Lecture 13 - PROG12583]]
 [[Lecture 14 - PROG12583]]
 # Evaluation
-Follows the [[Sheridan College#50/50 rule|50/50 rule]]
 Evals:
 - Assignments: 7.5% x 4 = 30%
 - Quizzes: 2% x 5 = 10%
 - Exams: 30% x 2 = 60%
 # Textbook
 Introducing Python, Lubanovic, O'Reily Media, 2nd Edition, 2019, available through Sheridan's library.
+# Concepts covered
+[[Python]]
+[[Simple Data Types]]
+[[Intermediate Datatypes]]
+[[concepts/compsci/middle-level/Loops|Loops]]
+[[Conditionals (if-else)]]
+
+Operations:
+- [[Modulo]]

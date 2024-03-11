@@ -5,13 +5,13 @@ tags:
 ---
 
 #lecture
-Most numbers we use in daily life are formed from 10 numbers: 0, 1, 2,...,9. And we would arrange these numbers in a system called [[Decimals]].  Deci- being 10, -mal being system => Base 10 system.
+Most numbers we use in daily life are formed from 10 numbers: 0, 1, 2,...,9. And we would arrange these numbers in a system called [[concepts/math/Decimals]].  Deci- being 10, -mal being system => Base 10 system.
 
 Each of these individual numbers are called [[#Digits|digits]] and these digits make up bigger and more complex numbers by taking up [[#Placevalues|placevalues]].
 
 In a decimal system, the placevalues are 10, 100, 1000, etc.
 
-Yet, computers only understand [[Binary|the binary system]], 0's and 1's. That is because unlike us, they communicate using "on" and "off", switches of electricity through semiconductors to communicate numbers. In a binary system, their placevalues are instead 2, 4, 8, 16, equivalent to 2^1, 2^2, 2^3,...
+Yet, computers only understand [[concepts/math/Binary|the binary system]], 0's and 1's. That is because unlike us, they communicate using "on" and "off", switches of electricity through semiconductors to communicate numbers. In a binary system, their placevalues are instead 2, 4, 8, 16, equivalent to 2^1, 2^2, 2^3,...
 
 Each of these digits are called "**Bi**nary dig**its**" => hence, "**bits**"
 # Number systems

@@ -12,5 +12,9 @@ The **textbook** will be attached in the textbook folder.
 
 If you want an AWS certification by the end of the class, you can consult [this book](https://www.amazon.ca/Certified-Solutions-Architect-Study-Guide/dp/1119713080). Of course, there will be a ["free" version](https://library.lol/main/B737706D838FA0EEACAE942B2CA7E609) but do make sure to access using Tor. Trust me. Anyways, if you want a physical copy, look up the ISBN: 978-1119713081.
 
-
-
+# Lectures
+[[Cloud Computing Models]]
+[[semester-2/cloud-enabled-networking-tele20483/lectures/week 2/Lecture 2|Lecture 2]]
+[[semester-2/cloud-enabled-networking-tele20483/lectures/week 3/Lecture 4|Lecture 4]]
+[[Lecture 5 (?)]]
+[[semester-2/cloud-enabled-networking-tele20483/lectures/week 5/Lecture 6|Lecture 6]]

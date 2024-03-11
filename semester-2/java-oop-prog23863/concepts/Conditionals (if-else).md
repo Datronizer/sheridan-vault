@@ -35,7 +35,7 @@ You can stack comparison operators to evaluate if something is less than/greater
 
 If you're thinking what I'm thinking, and you have problem reading things (also me), you'd think this is a bad idea because it clutters up the code. You know what I think is good? Don't stack the evals and just negate the inverse of the eval i.e. `(1 + 1 >= 2)` is equivalent to `!(1 + 1 < 2)`
 ## Logical operators
-Oh boy, "logic", don't that sound familiar? Yes it is. We talked about this in great detail in [[Boolean Algebra]], so we'll just briefly look at some operators that exist in most languages.
+Oh boy, "logic", don't that sound familiar? Yes it is. We talked about this in great detail in [[concepts/math/Boolean Algebra]], so we'll just briefly look at some operators that exist in most languages.
 - `&&` (AND)
 - `||` (OR)
 - `!` (NOT)
