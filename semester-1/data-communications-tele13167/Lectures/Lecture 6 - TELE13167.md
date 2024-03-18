@@ -1,13 +1,13 @@
 So we've kind of figured out how Subnet IDs work. But what we're doing is what a human would be doing. How would a machine do it?
 # ANDing
-ANDing is exactly what it sounds like. Yessir, we perform an [[concepts/math/Boolean Algebra#Boolean Operators|AND operation]] on an IP address using the Subnet Mask => new IP address. Provided is a simple table demonstrating how.
+ANDing is exactly what it sounds like. Yessir, we perform an [[Boolean Algebra#Boolean Operators|AND operation]] on an IP address using the Subnet Mask => new IP address. Provided is a simple table demonstrating how.
 
 | IP     | 179 | 34  | 89  | 127 |
 | ------ | --- | --- | --- | --- |
 | SM     | 255 | 255 | 252 | 0   |
 | Answer | 179 | 34  | x   | 0   |
 
-We compute the easiest ones first: 255 is all 1s in [[concepts/math/Binary]] and 0 is all 0s. So ANDing/multiplying them should yield itself or zero. The x right there can be computed using the table method to get the binary value => decimal. Here's how:
+We compute the easiest ones first: 255 is all 1s in [[Binary]] and 0 is all 0s. So ANDing/multiplying them should yield itself or zero. The x right there can be computed using the table method to get the binary value => decimal. Here's how:
 1. Find block size.
 2. Divide IP with block size using the [[method]] to get the right binary expansion.
 3. Convert binary expansion back to decimals.

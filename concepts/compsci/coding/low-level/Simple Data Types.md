@@ -13,7 +13,7 @@ You can convert most fundamental types into string by using `str()`. Example, `1
 
 A string is denoted by a pair of quote marks. Example: `"Hello world!"` is a string but `Hello world!` is an error. This is just to help the compiler in the Python language understand "when" and "where" a string begins and ends. Anything else that's not a string is automatically a code or other types.
 # Numbers
-We already know what numbers are, it's in our everyday life! We use it so often we tend to forget what it really means. For a computer, it's essential you know what it means to ensure correct code. Most of the time, for general uses, the interpreter accepts [[concepts/math/Decimals|decimal numbers]] as it converts everything back to [[concepts/math/Binary|binary]] anyways. There are a few types of numbers in Python:
+We already know what numbers are, it's in our everyday life! We use it so often we tend to forget what it really means. For a computer, it's essential you know what it means to ensure correct code. Most of the time, for general uses, the interpreter accepts [[concepts/math/Decimals|decimal numbers]] as it converts everything back to [[Binary|binary]] anyways. There are a few types of numbers in Python:
 ## [[Integers|Integers (`int`)]]
 Integers are what the name suggests. They are whole numbers, ranging from negative 2.4 million to positive 2.4 million. 
 ## [[Floating-Point Numbers|Floats (`float`)]]
@@ -23,4 +23,4 @@ Booleans are named after the great mathematician George Boole. Simply put, they 
 
 True and false are called **Boolean values** and they only take the return of some assessment. What does that mean? Let's say I have a function $1 + 1$. If I say `a = (1 + 1 == 2)`. Then `a` would be a Boolean variable and its value will be the assessment of the statement `1 + 1 == 2`, which is true. Then `a = True` is an equivalent expression.
 
-Of course bools can be combined, subtracted, and the sorts. For information regarding computation of Booleans, refer to [[concepts/math/Boolean Algebra]].
+Of course bools can be combined, subtracted, and the sorts. For information regarding computation of Booleans, refer to [[Boolean Algebra]].

@@ -11,7 +11,7 @@ Each of these individual numbers are called [[#Digits|digits]] and these digits 
 
 In a decimal system, the placevalues are 10, 100, 1000, etc.
 
-Yet, computers only understand [[concepts/math/Binary|the binary system]], 0's and 1's. That is because unlike us, they communicate using "on" and "off", switches of electricity through semiconductors to communicate numbers. In a binary system, their placevalues are instead 2, 4, 8, 16, equivalent to 2^1, 2^2, 2^3,...
+Yet, computers only understand [[Binary|the binary system]], 0's and 1's. That is because unlike us, they communicate using "on" and "off", switches of electricity through semiconductors to communicate numbers. In a binary system, their placevalues are instead 2, 4, 8, 16, equivalent to 2^1, 2^2, 2^3,...
 
 Each of these digits are called "**Bi**nary dig**its**" => hence, "**bits**"
 # Number systems

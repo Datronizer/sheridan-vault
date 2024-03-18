@@ -24,7 +24,7 @@ Introducing Python, Lubanovic, O'Reily Media, 2nd Edition, 2019, available throu
 [[Python]]
 [[Simple Data Types]]
 [[Intermediate Datatypes]]
-[[concepts/compsci/middle-level/Loops|Loops]]
+[[concepts/compsci/coding/middle-level/Loops|Loops]]
 [[Conditionals (if-else)]]
 
 Operations:

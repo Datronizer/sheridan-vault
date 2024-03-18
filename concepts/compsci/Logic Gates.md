@@ -1,5 +1,5 @@
 # Logic Gates
-All our knowledge about [[concepts/math/Boolean Algebra]] can finally be put into practice. Introducing **logic gates**, semiconductors designed to compute Boolean algebra such that a computer can process information from 0s and 1s. 
+All our knowledge about [[Boolean Algebra]] can finally be put into practice. Introducing **logic gates**, semiconductors designed to compute Boolean algebra such that a computer can process information from 0s and 1s. 
 
 All illustrations are on the lecture. Please refer for diagrams and examples.
 

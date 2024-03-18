@@ -1,6 +1,6 @@
 # Truth tables
 ## Generate truth tables from functions
-As you know, we can deduct logic using [[concepts/math/Boolean Algebra|Boolean algebra]] and manipulate our variables using [[concepts/math/Boolean Algebra#Boolean Algebra Laws and Theorems|laws and theorems]]. Today we're talking about Truth Tables--a powerful tool that helps us extract logic values.
+As you know, we can deduct logic using [[Boolean Algebra|Boolean algebra]] and manipulate our variables using [[Boolean Algebra#Boolean Algebra Laws and Theorems|laws and theorems]]. Today we're talking about Truth Tables--a powerful tool that helps us extract logic values.
 
 Consider this: let there be a function $F(x,y) = \sim x * y$. What are the boolean values? Of course one can simply sit and compute everything individually but there's a faster way. We can graph a table like so:
 
@@ -80,7 +80,7 @@ Then our function is $(\sim x \cdot y) + (x \cdot y)$. Because it's only true IF
 Then the SOP of the function $F(x,y,z) = (x + z) \cdot y = xyz + xy \sim z + \sim x yz$. And they are called **logically equivalent statements**.
 # Definitions
 ## Logical equivalence
-Two functions are considered logically equivalent **if and only if** their literals are the same on the truth table. The best example is through [[concepts/math/Boolean Algebra#Boolean Algebra Laws and Theorems|DeMorgan's Law]]. We can see that the LHS is equivalent to the RHS. Thus they are logically equivalent. 
+Two functions are considered logically equivalent **if and only if** their literals are the same on the truth table. The best example is through [[Boolean Algebra#Boolean Algebra Laws and Theorems|DeMorgan's Law]]. We can see that the LHS is equivalent to the RHS. Thus they are logically equivalent. 
 ## Tautology
 If a statement yields true for all possible truth values of its compound variables, it is a **tautology**.
 Example: $P + \sim P$ is a tautology because it yields true no matter what its variables' values are.

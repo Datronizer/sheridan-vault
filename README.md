@@ -29,6 +29,6 @@ Some contents from different fields can overlap, this is almost unavoidable as k
 
 However, some fields are literally so overlapped there is no other way but to split that entry into 1 for each overlapping field.
 
-**For example:** operators (plus, minus, etc.) are both in math and CS. But because their concepts are so intertwined, explaining it in one entry will be too much. It's better to split it into `Operators (Math)` and `Operators (CS)`. In that case, I can keep their concepts separate while also linking them together.
+**For example:** operators (plus, minus, etc.) are both in math and CS. But because their concepts are so intertwined, explaining it in one entry will be too much. It's better to split it into `Operators (Math)` and `Operators (CS)`. In that case, I can keep their concepts separate while also linking them together. Kinda like [[many-to-many graphs]] huh?
 ## What happens to old lectures?
 Since SLATE locks old classes after the term ends, I didn't see a point in keeping the information separated by classes. So, when the classes are locked, I will migrate all the information to the `concepts` folder and rewrite/restructure them so the information is more general and cross-linked to other concepts rather than weekly lectures.

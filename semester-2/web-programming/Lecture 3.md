@@ -44,7 +44,7 @@ Of course sometimes you want to display some information to the user or other de
 	- To access the console, hit `Inspect element` or hit F12.
 
 ## Loop
-Like other languages, JS has a [[concepts/compsci/middle-level/Loops#`for` loop|for loop]] and a [[concepts/compsci/middle-level/Loops#`while` loop|while loop]]. But what you're probably not expecting is that it also has a [[concepts/compsci/middle-level/Loops#`do-while` loop|do-while loop]]. Example:
+Like other languages, JS has a [[concepts/compsci/coding/middle-level/Loops#`for` loop|for loop]] and a [[concepts/compsci/coding/middle-level/Loops#`while` loop|while loop]]. But what you're probably not expecting is that it also has a [[concepts/compsci/coding/middle-level/Loops#`do-while` loop|do-while loop]]. Example:
 
 ```
 let x, y, z; 

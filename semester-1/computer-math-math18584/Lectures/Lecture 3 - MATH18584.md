@@ -3,7 +3,7 @@
 ## The Sign Bit
 Since binary only run on 0s and 1s, how do we denote that a number is a positive or negative? Computer scientists have the answer to this: take the most significant bit and use that to denote whether a negative sign is present!
 
-But how do we know if a number is an **unsigned** [[concepts/math/Binary|binary]] number, aka we do normal operations on it, or a **signed** number, one that takes the most significant digit and turn it negative?
+But how do we know if a number is an **unsigned** [[Binary|binary]] number, aka we do normal operations on it, or a **signed** number, one that takes the most significant digit and turn it negative?
 
 To know whether a number is signed, we need to declare that it is signed, that's the only way to know. That or see what the professor chooses. Generally it's safer to assume the number is unsigned unless otherwise specified.
 
