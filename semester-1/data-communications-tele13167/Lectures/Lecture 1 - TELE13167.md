@@ -8,7 +8,7 @@ Life was quite interesting prior to the creation of **The Internet**
 - But **in 1969**, at the peak of the nuclear threats, the US invented the Arpanet to ensure communications in case a nuclear attack happens. That was the predecessor to the internet.
 - **In 1971**, emails were first invented.
 
-**In 1974**, TCP/IP was invented and eliminated the need for a central control. But there were challenges in trying to get 2 networks to communicate. A bank might have faster internet than a home network. They might be more secure. Their packets might be bigger. 
+**In 1974**, [[TCP]] was invented and eliminated the need for a central control. But there were challenges in trying to get 2 networks to communicate. A bank might have faster internet than a home network. They might be more secure. Their packets might be bigger. 
 
 The solution? A default gateway! Nowadays, it's your router! It allows your network to pass through the router, the router would then negotiate with the router on the other end and agree on speeds and packets, then the network reaches the other router and the other user. Kind of like an [[Airport Metaphor|airport]].
 # Circuit switched / Packet Switched
@@ -95,8 +95,8 @@ The process to pass a new standard is as such:
 Same thing with "ipv5". Look it up.
 
 5 protocol related acronyms:
-- TCP/IP: A protocol suite that contains essential rules for how the internet works.
+- [[TCP|TCP/IP]]: A protocol suite that contains essential rules for how the internet works.
 - IPsec
-- HTTP: A protocol that allows communication between computer and server.
+- [[HTTP]]: A protocol that allows communication between computer and server.
 - [[Lecture 2 - TELE13167#OSI model|OSI model]]: Replacement for TCP/IP that never caught on.
-- UDP: Protocol that enables fast communication.
+- [[UDP]]: Protocol that enables fast communication.

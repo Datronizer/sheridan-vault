@@ -46,7 +46,7 @@ Python allocates some memory for your variables **based on their data types**. W
 Often times, it, as well as us, overshoot the allocation and waste memory. Compare a `short` of value `55` and an `int` of value `55`. The `short` will just have 1 address of size 1 chomp. The `int` would have a size of 4 chomps because it needs to allocate extra room as `00 00 00 55`. This wastes a ton of memory.
 ## Stop sign
 A stop sign is a byte that signifies a "stop" of an object(?) currently being stored in the memory. One way to look at it is to see it is to imagine textbooks being stored as only unordered pages. How do we know where one book ends and the other begins? We need a divider that splits these pages and a "label" after the dividers to clarify which pages belong to which book.
-# [[ASCII Table]]
+# [[ASCII]]
 The ASCII table is a table of all characters supported in ASCII, for example, pi. Here's how you can type these characters into your text editor.
 - Look up the ASCII number of the symbol
 - Hold Alt and type that number

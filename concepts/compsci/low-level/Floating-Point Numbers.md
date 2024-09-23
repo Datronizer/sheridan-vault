@@ -11,7 +11,7 @@ Let's say we want to store Pi. Pi is $3.14$ and $3.14 * 10^2 = 314\equiv 314 * 1
 Let's take the whole part (mantissa) which is equal to $314$, and take the exponent, which is $-2$. Now store these two in a memory map. 
 
 In class, we just store them as just stars because they're basically placeholders for the actual value. In real life, it's the above information with the mantissa and exponent.
-## Encoding
+## [[Encoding]]
 Okay now let's pull this funny number and represent it. How do we do that?
 
 Before we do anything, let's first get this out of the way. Let me make it a colored block of text too so it's crystal clear.
@@ -28,9 +28,9 @@ The encoding is done as such:
 $$
 (-1)^{bit0} \times 2^{exponentInDecimal} \times (1.fractionInDecimal)
 $$
-## IEEE 745
+## [[IEEE 745]]
 In computers, we use what is called **encoding IEEE 745** to encode data into bytes and send them to the memory for storage. We don't really need to know how it works, just consider it a "black box operation" that magically stacks your stuff neatly into the memory.
 
-Unfortunately, since our number can only be stored in 4 bytes, chances are information will be lost upon encoding and decoding since the number would be chopped off. So, uh... yeah. **DON'T TEST FOR EQUALITY FOR FLOATING POINT NUMBERS WITHOUT AN ADDITIONAL ALGORITHM**.
+Unfortunately, since our number can only be stored in 4 bytes, chances are information will be lost upon [[encoding]] and decoding since the number would be chopped off. So, uh... yeah. **DON'T TEST FOR EQUALITY FOR FLOATING POINT NUMBERS WITHOUT AN ADDITIONAL ALGORITHM**.
 
 **IEEE 745** is generally really good at storing data into the memory, but it is terrible at computation. this is when we rely on something called the [[#Math coprocessor]].

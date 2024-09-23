@@ -6,7 +6,7 @@ tags:
   - python
 ---
 # Lists (Arrays)
-
+asdasd
 
 # Dictionaries (Maps)
 ## Definition
@@ -20,9 +20,9 @@ What do I mean by that? Well, a dictionary is basically a list right? It is a li
 Example:
 ```
 birthdays = {
-	"chien": "Jan 5"
-	"obama": "Aug 4"
-	"santa": "Dec 24"    # that's not his birthday
+	"sienna": "Jan 5"
+	"obama" : "Aug 4"
+	"santa" : "Dec 24"    # that's not his birthday
 }
 ```
 The above structure is called a **dictionary**, but in other languages, this is called a **hashmap** (you're going to hear this word a ton in the future). 
@@ -51,16 +51,16 @@ A good method one should now is `dict.get(x: string)`. This retrieves the value 
 ```
 # Using the same birthday file as above.
 
-print(birthdays.get("chien"))
+print(birthdays.get("sienna"))
 print(birthdays.keys())
 print(birthdays.values())
 
 >> Jan 5
-   chien, obama, santa
+   sienna, obama, santa
    Jan 5, Aug 4, Dec 24
 ```
 ## Supported data types
-Dictionaries being simple key-value pairs allows it to support plenty of data types. [[Simple Data Types#Types#Strings (`string` or `str`)|Strings]], [[Simple Data Types#Numbers#Integers (`int`)|ints]], and [[Simple Data Types#Numbers#Floats (`float`)|floats]] are all supported off the bat. Surprisingly [[Intermediate Datatypes#Arrays|lists]] are also supported as well as other [[dictionaries]]! In a way, dictionaries in Python are basically `.json` files!
+Dictionaries being simple key-value pairs allows it to support plenty of data types. [[Simple Data Types#Types#Strings (`string` or `str`)|Strings]], [[Simple Data Types#Numbers#Integers (`int`)|ints]], and [[Simple Data Types#Numbers#Floats (`float`)|floats]] are all supported off the bat. Surprisingly [[Intermediate Datatypes#Arrays|lists]] are also supported as well as other [[Dictionaries]]! In a way, dictionaries in Python are basically `.json` files!
 
 Look at how you can extract data from lists inside dictionaries:
 ```
@@ -95,9 +95,9 @@ Since this is an object containing multiple other items, it is safe for one to a
 for key, value in birthdays.items():
 	print(key, value)
 
->> ("chien", "Jan 5")
-   ("obama", "Aug 4")
-   ("santa", "Dec 24")
+>> ("sienna", "Jan 5")
+   ("obama" , "Aug 4")
+   ("santa" , "Dec 24")
 ```
 
 As you can see, iterating this way allows us to take both the key and value, thus allowing us to manipulate data in a more flexible way.

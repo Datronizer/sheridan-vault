@@ -1,4 +1,4 @@
-# [[Dictionaries]]
+# [[Intermediate Datatypes#Dictionaries (Maps)|Dictionaries]]
 ## Definition
 Holy shit boys we finally reach the third best chapter. Allow me to explain this in a simple way. A dictionary in Python works the same way as the one in real life.
 
@@ -50,7 +50,7 @@ print(birthdays.values())
    Jan 5, Aug 4, Dec 24
 ```
 ## Supported data types
-Dictionaries being simple key-value pairs allows it to support plenty of data types. [[Simple Data Types#Types#Strings (`string` or `str`)|Strings]], [[Simple Data Types#Numbers#Integers (`int`)|ints]], and [[Simple Data Types#Numbers#Floats (`float`)|floats]] are all supported off the bat. Surprisingly [[Intermediate Datatypes#Arrays|lists]] are also supported as well as other [[dictionaries]]! In a way, dictionaries in Python are basically `.json` files!
+Dictionaries being simple key-value pairs allows it to support plenty of data types. [[Simple Data Types#Types#Strings (`string` or `str`)|Strings]], [[Simple Data Types#Numbers#Integers (`int`)|ints]], and [[Simple Data Types#Numbers#Floats (`float`)|floats]] are all supported off the bat. Surprisingly [[Intermediate Datatypes#Arrays|lists]] are also supported as well as other [[Dictionaries]]! In a way, dictionaries in Python are basically `.json` files!
 
 Look at how you can extract data from lists inside dictionaries:
 ```

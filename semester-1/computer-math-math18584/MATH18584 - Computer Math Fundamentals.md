@@ -23,7 +23,7 @@ Done
 [[Lecture 12 - MATH18784]]
 [[Lecture 13 - MATH18784]]
 # Assignments
-[[Assignment 2 - Chien Truong]]
+[[Assignment 2 - Sienna Truong]]
 [[Assignment 3 - Chien Truong]]
 
 # Concepts covered

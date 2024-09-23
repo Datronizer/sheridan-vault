@@ -18,6 +18,8 @@ We already know what numbers are, it's in our everyday life! We use it so often 
 Integers are what the name suggests. They are whole numbers, ranging from negative 2.4 million to positive 2.4 million. 
 ## [[Floating-Point Numbers|Floats (`float`)]]
 Floats are short for **[[Floating-Point Numbers]]**. The "floating point" part refers to the decimal point. It "floats" because in a 32bit system, we choose a "breaking point", the left of this will be a whole number, the right of this will be decimals, and this number itself becomes a decimal point. This decimal point can "float" around any of the 23 bits on the right to denote different decimal values up to 10^-23.
+## Not a Number (`NaN`)
+
 # Booleans (`bool`)
 Booleans are named after the great mathematician George Boole. Simply put, they are the values **true** and **false**. Yes, that's literally it! 
 

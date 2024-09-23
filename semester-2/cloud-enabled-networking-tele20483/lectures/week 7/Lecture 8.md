@@ -56,3 +56,22 @@ Example: I go to `urmom.com`. The site generates a token and puts it in the URL 
 Give 2 LBs, each its own IP, and link them together (logically, not physically ofc). Then give them a "shared" virtual IP. Make one of these the "master" load balancer. Ideally when you access the website, it goes to the virtual IP, then from there, it sends it to either LBs (with their own IPs). Then these LBs would do their job as usual.
 
 Assuming the master LB dies, the other one would know (because it realizes the master one did not respond to health checks), so it turns itself into the master LB instead and takes over the workload from the other one. This allows for more stable uptime while your cloud engineer fixes the issue (aka doing his fucking job).
+
+# Auto-Scaling Group
+Think load balancer, but it scales the number of instances up and down based on use.
+
+2 major concepts of clouds vs on-prem datacenters is **Elasticity** & **Availability on Demand**. Basically with cloud, we ensure that servers are always available (most of the time) and that we can scale up and down our resources if needs be. 
+## Definition
+The admin defines a min and max number of EC2 instances. The group can scale out to max or scale in to min based on needs. The group stays in the desired number most of the time.
+## Features
+For AWS, an Auto-Scaling Group (ASG) allows horizontal scaling to add/remove instances as the demand for the service requires. This takes out the need for vertical scaling unless absolutely necessary (which isn't usually the case).
+
+For AWS, you can also manually add/remove instances if you want. Or you can use a **dynamic approach** that would auto-scale based on the minimum size, maximum size, and desired size. 
+
+There are 2 pricing systems:
+- On-demand: default.
+- On-the-spot: clients bid for EC2 resources. 
+	- If there are resources and you bid higher, you get the resource. 
+	- It would save you so much money assuming you have no other bidders and there are resources available, which there often isn't.
+
+ASG also provides health checks, lifecycole hooks and scheduled scaling to automate capacity management. Again, if an instance fails a health check, it gets terminated and replaced, like Amazon employees IRL. Scheduled scaling will spin new instances based on a time period in a week or a day. And ASG is often paired with ELB front.

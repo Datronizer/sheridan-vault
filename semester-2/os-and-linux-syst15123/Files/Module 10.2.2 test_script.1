@@ -1,0 +1,127 @@
+# cat /usr/local/man/man1/test_script.1
+." Process this file with
+." groff -man -Tascii test_script.1
+."
+.TH test_script(1)
+
+.Sh NAME
+.B test_script
+- some sample task
+
+.SH SYNOPSIS
+.B test_script
+.RB [ OPTIONS ]...
+
+.SH DESCRIPTION
+.B test_script
+The detailed description of the test_script is here:
+
+.RS
+.nf
+- test_script feature 1
+- test_script feature 2
+.RE
+
+Continue describing the test_script functionality
+
+.SH SAMPLE HELP CONTENT
+
+.TP
+.B -how to use the script
+Description for how to use the script
+
+.TP
+Another description with different formatting
+
+.PP
+.B
+And another description with different formatting
+
+.RS 1.2i
+.PP
+.I ROW
+.B -
+field 1, field 2
+.PP
+.I ROW
+.B -
+field 1, field 2
+.RE
+
+.TP
+.B
+Table format
+.
+
+.RS 1.2i
+
+.TS
+tab(@), left, box;
+c | c
+rB | r.
+Options@Values
+_
+Option 1@val1, val2, val3
+Option 2@val2, val2, val3
+.TE
+.RE
+
+.TP
+.B
+Tabular format
+
+.RS 1.2i
+
+.TS
+tab (@);
+l c c.
+Option@Values@Comments
+_
+T{
+Option 1
+T}@team1_value1, team1_value2@Value for team1@
+T{
+Option 2
+T}@team2_value1, team2_value2@Value for team2
+.TE
+
+
+.TP
+.RE
+.PP
+Some extra description comes here
+
+
+.SH OPTIONS
+.IP -a, --all
+Description for option -a
+
+.IP -a, --best
+description for option -b
+
+.SH CONFIGURATION FILES
+.TP
+.I
+/etc/test_script.conf
+
+.SH HOW TO USE THE TEST_SCRIPT
+.TP
+.BI test_script blah blah
+.TP
+.PP
+Running test script is very easy
+
+
+.SH EXIT CODES (STATUS)
+.TP
+.B
+0
+Success is the only exit status
+
+.SH COPYRIGHT
+.PP
+Created in collaboration with many online sources
+
+.SH CREDITS
+.PP
+Give credits here

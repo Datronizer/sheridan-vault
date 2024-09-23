@@ -20,3 +20,5 @@
 - [[machinelearningwithpythonforeveryone.pdf|Machine Learning with Python for Everyone]]
 - [[pandasforeveryone2ande.pdf|Pandas for Everyone]]
 ### Advanced
+- Digital Forensics with Kali Linux
+- 
