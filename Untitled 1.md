@@ -1,0 +1,49 @@
+- [x] Lifetime = Cashin - deposit (add column to members pages) ✅ 2025-08-18
+- [ ] Lifetime bonus 
+- [ ] Lifetime tips
+- [x] Call center staff are listed as Employees ✅ 2025-08-26
+- [x] Re-add employees page and functionality ✅ 2025-08-18
+- [x] Rules and Bonuses is verbatim from NPGR Sheet ✅ 2025-08-18
+- [x] Make sweepstakes on task open in new window to the sweepstakes page ✅ 2025-08-18
+
+
+- [ ] Next steps:
+	- [x] Summary section ✅ 2025-08-18
+		- [x] New Players ✅ 2025-08-18
+		- [x] Total Players ✅ 2025-08-18
+		- [x] Total Deposits ✅ 2025-08-18
+		- [x] # Cash ins ✅ 2025-08-18
+		- [x] Total Cashouts ✅ 2025-08-18
+		- [x] # Cash outs ✅ 2025-08-18
+		- [x] Views: Today Summary / Yesterday .. / This week .. / Last Week / This month .. ✅ 2025-08-18
+	- [ ] Employee hours tracking
+		- [x] Manual clock in/out ✅ 2025-08-18
+		- [ ] Auto detect shift based on login
+			- [x] Get name, shift, **time log in, time log out, total hours worked**, *which shift they are*, email, phone number ✅ 2025-08-25
+			- [ ] Weekly report for employees section
+				- [x] Show how many hours they're working ✅ 2025-09-11
+	- [ ] Organizations
+		- [ ] Allow Gamerooms to reset password
+	- [x] Deposit forms ✅ 2025-09-11
+		- [x] Persistent notes in transaction forms (carries over transactions) ✅ 2025-09-11
+		- [x] Clean FB URL ✅ 2025-08-26
+		- [x] Make Remember Payment Method work ✅ 2025-08-26
+	- [x] Implement chat function between players and staff ✅ 2025-09-11
+	- [x] Combine Broadcasting & Marketing + Marketing Materials ✅ 2025-08-26
+		- [x] Replace Marketing Materials with Messaging ✅ 2025-08-26
+
+- [ ] Billing
+- [x] For the deposit form, in the facebook/member subsection, add a row to the members one or vice versa so that we can see and input both the facebook and nrg username at the same time. ✅ 2025-09-01
+- [x] Available Platforms ✅ 2025-09-11
+	- [x] Links are just for gamerooms to view and access ✅ 2025-09-03
+	- [x] The page basically just shows whats avaialble for purchase ✅ 2025-09-03
+	- [x] Not to be confused with Platforms where: ✅ 2025-09-11
+		- [x] Gamerooms can see what they have ✅ 2025-09-11
+		- [x] Admin can choose what platforms a gameroom can have ✅ 2025-09-11
+- [x] Notes for venue members, this note should also show up on the individual transactions ✅ 2025-09-11
+- [x] Put text in userdetails cash in /out ✅ 2025-09-01
+- [x] For the deposit form, in member lookup, allow lookup by phone number ✅ 2025-09-11
+- [x] Notes in user detail is same with venue membership notes ✅ 2025-09-11
+- [x] Change balance and toggle (GR Manager/Owner/Admin🔼 ) ✅ 2025-09-11
+	- [x] Only Admins can add platforms ✅ 2025-09-11
+- [ ] Owner has ability to edit transactions/cancel transactions. If transaction is cancelled, it should say so when viewing report. Same if it was edited

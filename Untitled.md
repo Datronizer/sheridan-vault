@@ -1,0 +1,1 @@
+CI/CO report: Right side of all the MOPs, add the count and total also

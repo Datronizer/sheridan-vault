@@ -1,0 +1,5 @@
+---
+aliases:
+  - ASG
+  - AWS ASG
+---
