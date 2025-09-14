@@ -2,7 +2,7 @@
 Code can sometimes be convoluted, especially if you want to shorten a function by simplifying some names and condensing operations as much as possible. This is where comments come in. 
 
 Comments allow you to notate what you want the next reader/developer to see/understand. For example.
-```
+```python
 import math
 
 a = 3
@@ -15,7 +15,7 @@ As you can see this comment notates what a function does. This is oftentimes not
 
 # Inputs
 Inputting is another important layer of human-computer communication. Some might say it's the first layer between a user and a computer, probably the second for developers though. To tell Python to await your input, do `input(someStringHere)`. Example:
-```
+```python
 phrase = input("Enter any string: ")
 
 print(phrase)

@@ -2,7 +2,7 @@
 To receive user input in Java, we must tell the compiler to wait for input. How do we do that?
 
 For Java, we need to import `java.util.Scanner`. Do this:
-```
+```java
 import java.util.Scanner;
 
 public class scanner {

@@ -3,7 +3,7 @@ Before we get into the language, let's first identify what a Java file looks lik
 ## "Hello, world!" in Java
 Prepare yourself for the most fuckass syntax known to man.
 To do a simple "Hello, world!" print, do as such:
-```
+```java
 public class fileName
 {
 	public static void main(String[] args)
@@ -21,7 +21,7 @@ Let's break down what's going on.
 ## Inline computation
 Turns out printing is pretty consistent across languages! Look at what we can print below.
 
-```
+```java
 public static void main(String[] args)
 {
 	int a = 1

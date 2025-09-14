@@ -7,7 +7,7 @@ Let's start by saying that I hate this language and all the hostilities I hold h
 ### History
 ### Usage
 To add JS into your HTML, add a `<script>` tag to your `<head>`, for example:
-```
+```HTML
 <html>
 	<head>
 		<script>

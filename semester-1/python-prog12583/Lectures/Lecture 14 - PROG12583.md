@@ -7,7 +7,7 @@ As we have discussed [[Lecture 13 - PROG12583|last class]], objects are related,
 ## Keywords
 ## Initialization
 When you define a class, you must also give it a blueprint so it knows how to arrange these values upon input. All initialization uses `def __init__(self, [...someVariables])`. Example:
-```
+```python
 class Cat:
 	def __init__(self, breed, furColor):
 		self.breed = breed
@@ -22,7 +22,7 @@ An instance variable is a variable that is initialized for every instance. It ca
 Another word for this is **attribute**, and guess what? `self.breed` and `self.furColor` are attributes. 
 ### Class Variable
 A class variable is a variable that is initialized with every single created instance. For example, you can have an instance counter to check how many times this class has been initialized.
-```
+```python
 class Cat:
 	totalCats = 0
 	def __init__(self, breed):
@@ -34,6 +34,6 @@ cat2 = Cat("Tabby")
 
 print("There are", Cat.totalCats, "cats.")     
 
->> There are 2 cats.
+# >> There are 2 cats.
 ```
 

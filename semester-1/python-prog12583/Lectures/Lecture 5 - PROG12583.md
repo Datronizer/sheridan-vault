@@ -1,6 +1,6 @@
 # `if` statements
 `if` is a method used to check if some statement `a` is true. Example:
-```
+```python
 a = 2
 if a == 2:
 	print('a is 2!')

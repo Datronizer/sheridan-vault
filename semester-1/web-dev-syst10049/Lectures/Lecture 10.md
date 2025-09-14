@@ -1,6 +1,6 @@
 # Media queries
 Media quesries are used to change the layout of a page by querying for elements we wish to change. Syntax is simple:
-```
+```CSS
 @media screen and (min-width: 750px)
 {
 	h1 {

@@ -35,7 +35,7 @@ Python contains some simple arithmetic. There are a few operators coded into the
 You are encouraged to make your code easy to read by separating variable declaration from [[Functions (Computer Science)|functions]] and such.
 
 Follow something like this:
-```
+```Python
 a = 4
 b = 3
 c = a + b

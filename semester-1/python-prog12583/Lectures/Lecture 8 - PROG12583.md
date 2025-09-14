@@ -4,12 +4,12 @@ Suppose I want to calculate the average score of a student. I would have to crea
 To accommodate this shortcoming, most programming languages implemented a new data type: "**lists**". This data type is differs between languages, but it's commonly agreed that it should be called "arrays". For the sake of Python naming convention, I will call these "lists" rather than "arrays"
 ## Notation
 To declare a list, wrap a series of elements between square brackets, separated by commas. Example:
-```
+```python
 quizGrades = [76, 55, 100, 92, 6]
 ```
 ## Selecting elements
 To select an element in a list called `quizGrades`, do `quizGrades[n]` with `n` being the index you wish to select. For example:
-```
+```python
 quizGrades = [76, 55, 100, 92, 6]
 
 print(quizGrades[2]) # prints 100 (index 2) from quizGrades
@@ -18,7 +18,7 @@ print(quizGrades[2]) # prints 100 (index 2) from quizGrades
 Printing an entire list at once can be done by calling the list name. `print(quizGrades)` yields the whole list.
 ## Adding elements
 To add elements into Python (one or many), use `.append(x)` and `.extend([x1, x2, x3,...])` respectively. Example:
-```
+```python
 quizGrades = [76, 55, 100, 92, 6]
 
 quizGrades.append(55)            # quizGrades = [76, 55, 100, 92, 6, 55]
@@ -26,7 +26,7 @@ quizGrades.extend([42,88,91])    # quizGrades = [76, 55, 100, 92, 6, 42, 88, 91
 ```
 
 To insert an element into a specific location, use `.insert(a, b)` where `a` is the index where you want this item inserted, `b` is the item itself. Every element after this index will get nudged to the right to make room for this.
-```
+```python
 quizGrades = [76, 55, 100, 92, 6]
 
 quizGrades.insert(1, 11)         # quizGrades = [76, 55, 100, 92, 6, 55]

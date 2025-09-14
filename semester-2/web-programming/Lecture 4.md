@@ -11,7 +11,7 @@ Here are a few common methods:
 ## Get methods
 ### `getElementById('element')`
 To grab some element with the `id="someParagraph"`. Say I want to change inner HTML contents of the paragraph, regardless of whatever it is, to "haha stupid" upon the click of a button. I can do this:
-```
+```HTML
 <script>
 	function stupify()
 	{

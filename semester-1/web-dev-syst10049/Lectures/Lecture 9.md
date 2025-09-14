@@ -7,7 +7,7 @@ Now we can build elements in a "griddy" way (don't ever say that again).
 
 First, name your elements. Give your elements a name using `grid-area: "some-name"`.
 Second, sort your elements in a table-y format like so:
-```
+```CSS
 main {
 grid-template-areas:
 	"nav" "body" "aside"
@@ -37,7 +37,7 @@ div {
 ```
 Of course if you have other width settings in the individual elements, they would override the automatic width set by the grid. Evidently, this means we can override the height and width of the elements as we please. We can do this using `grid-templaate-columns` and `grid-templaate-rows`.
 
-```
+```CSS
 <!-- The below grid has 3 rows and 4 columns -->
 
 main {

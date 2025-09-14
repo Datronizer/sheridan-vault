@@ -47,5 +47,5 @@ Let's say you want to connect to the AWS server and you have own your own datace
 A virtual machine (VM) is the emulation of a computer device running on another machine.
 Even though the VM appears as a real computer to the user; it is mostly code running on the host.
 
-More information available [[virtual machine]] %% Is this link missing? %%
+More information available [[Virtual Machine]] %% Is this link missing? %%
 ## Chipset

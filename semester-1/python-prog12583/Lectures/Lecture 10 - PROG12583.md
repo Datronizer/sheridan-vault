@@ -8,7 +8,7 @@ What do I mean by that? Well, a dictionary is basically a list right? It is a li
 > It's like with a dictionary. Why would there be 2 identical words with identical forms (nouns/etc.) with identical pronunciations, but different meanings? It's better to have 1 word have multiple meanings underneath 1 section than multiple sections.
 
 Example:
-```
+```python
 birthdays = {
 	"chien": "Jan 5"
 	"obama": "Aug 4"
@@ -22,7 +22,7 @@ As you can see the dictionary introduces a new notation: `{}`-curly brackets. Th
 Speaking of which, yes, this is in fact an [[object]]! Congratulations, you wrote your first object in [[Object-Oriented Programming]]! 
 ## Accessing data
 Anyways, now that we have a dictionary, how do we access an entry? It's quite simple:
-```
+```python
 # To access Obama's birthday. Do:
 
 print(birthdays["obama"])
@@ -38,7 +38,7 @@ A good method one should now is `dict.get(x: string)`. This retrieves the value 
 
 2 other good methods are `.keys() and .values()`. Allow me to show you what they do.
 
-```
+```python
 # Using the same birthday file as above.
 
 print(birthdays.get("chien"))
@@ -53,7 +53,7 @@ print(birthdays.values())
 Dictionaries being simple key-value pairs allows it to support plenty of data types. [[Simple Data Types#Types#Strings (`string` or `str`)|Strings]], [[Simple Data Types#Numbers#Integers (`int`)|ints]], and [[Simple Data Types#Numbers#Floats (`float`)|floats]] are all supported off the bat. Surprisingly [[Intermediate Datatypes#Arrays|lists]] are also supported as well as other [[Dictionaries]]! In a way, dictionaries in Python are basically `.json` files!
 
 Look at how you can extract data from lists inside dictionaries:
-```
+```python
 food = {
     "grapes"      : ["sweet", "sour"],
     "limes"       : ["sour", "bitter"],
@@ -64,30 +64,30 @@ food = {
 
 print(food["grapes"][1])
 
->> sour
+# >> sour
 ```
 
 Here's another way, notations explained in the next section
-```
+```python
 for key, value in food.items():
     print("%-11s %-9s %-9s" % (key, value[0], value[1]))
 
->> grapes      sweet     sour
-   limes       sour      bitter
-   dragonfruit bitter    sweet
-   jalapeno    hot       sweet
-   potatoes    tasteless grainy
+# >> grapes      sweet     sour
+#    limes       sour      bitter
+#    dragonfruit bitter    sweet
+#    jalapeno    hot       sweet
+#    potatoes    tasteless grainy
 ```
 ## Iterating whole items
 Since this is an object containing multiple other items, it is safe for one to assume they can extract the whole item (key and value included). We can do this using the `for` loop, here being a `for` iterator (same thing).
 
-```
+```python
 for key, value in birthdays.items():
 	print(key, value)
 
->> ("chien", "Jan 5")
-   ("obama", "Aug 4")
-   ("santa", "Dec 24")
+# >> ("chien", "Jan 5")
+#    ("obama", "Aug 4")
+#    ("santa", "Dec 24")
 ```
 
 As you can see, iterating this way allows us to take both the key and value, thus allowing us to manipulate data in a more flexible way.
@@ -97,7 +97,7 @@ Remember when we used `.format()` to format our strings? Cool, there's a better 
 
 This makes sense since Python is built on top of C, so it would make sense that it carries a lot of things over. In this case, string formatters. The following 2 strings are identical.
 
-```
+```python
 # .format() style
 print("My cow weighs {0:3d} lbs and her name is {1:5s}".format(400, "betsy"))
 
