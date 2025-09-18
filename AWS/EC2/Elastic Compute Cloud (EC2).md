@@ -2,6 +2,7 @@
 aliases:
   - EC2
   - AWS EC2
+  - Amazon EC2
 ---
 
 # Introduction
